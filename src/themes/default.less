@@ -1,0 +1,525 @@
+@import 'palette';
+
+.ant-calendar-picker-container {
+  background-color: @d3;
+  border: 8px solid @c1;
+  padding: 1px;
+  margin: -8px;
+	&::after {
+		bottom: -9px;
+		border: 1px solid @d3;
+		content: '';
+		position: absolute;
+		right: -9px;
+		left: -9px;
+		top: -9px;
+    z-index: -1;
+	}
+}
+
+.ant-calendar-picker-error {
+	div {
+		input {
+			border-color: @alert_a
+		}
+	}
+}
+
+.ant-calendar {
+	background-color: @b4;
+	border: 0;
+	border-radius: 0;
+}
+
+.ant-calendar-input-wrap {
+  background-color: @b5;
+  border-bottom: 1px solid;
+}
+
+.ant-input {
+	background-color: @d2;
+	border: 1px solid @d1;
+	border-radius: 0;
+	color: @a;
+	font-size: 14px;
+	&::placeholder {
+		color: @b3;
+		font-style: italic;
+	}
+	&:focus {
+		border-color: @active_a;
+	}
+}
+
+.ant-input-hivis {
+	background-color: @b5;
+	border: 1px solid @c4;
+	border-radius: 0;
+	color: @d3;
+  font-size: 14px;
+  width: 100%;
+  padding: 4px 7px;
+	&::placeholder {
+		color: @b3;
+		font-style: italic;
+	}
+	&:focus {
+		border-color: @active_a;
+	}
+}
+
+.ant-calendar-input {
+	background-color: @b5;
+	border: 1px solid @c4;
+	border-radius: 0;
+	color: @d3;
+	padding: 1px 5px;
+	&::placeholder {
+		color: @b3;
+		font-style: italic;
+	}
+	&:focus {
+		border-color: @active_a;
+	}
+}
+
+.ant-calendar-header {
+  background-color: @b4;
+  height: 23px;
+  line-height: 23px;
+}
+
+.ant-calendar-header a,
+.ant-calendar-month-panel-month,
+.ant-calendar-year-panel-year,
+.ant-calendar-date {
+	border-radius: 0;
+	&:hover {
+		background-color: @c3;
+		color: @a;
+	}
+}
+
+.ant-calendar-today .ant-calendar-date {
+	background-color: @active_c2;
+	border: none;
+	// color: @a;
+	&:hover {
+		border: none;
+	}
+}
+
+.ant-calendar-selected-day .ant-calendar-date {
+	background-color: @active_a,
+}
+
+.ant-calendar-picker-icon {
+	background-color: transparent;
+	background-image: data-uri('image/jpeg;base64', '../../resources/calendar-18x16-b1.png');
+	height: 16px;
+	margin-top: -8px; // half height.
+	width: 18px;
+	&:hover {
+		background-image: data-uri('image/jpeg;base64', '../../resources/calendar-18x16-d3.png');
+	}
+	&:active {
+		background-image: data-uri('image/jpeg;base64', '../../resources/calendar-18x16-active_a.png');
+	}
+  &::after {
+    /* Hide the original calendar icon */
+    display: none;
+  }
+}
+
+.ant-calendar-picker-clear,
+.ant-calendar-picker-clear:hover {
+	background-color: transparent;
+	right: 30px;
+}
+
+.ant-calendar .ant-calendar-ok-btn {
+	background-color: @active_c2;
+	border: 1px solid @c1;
+	border-radius: 0;
+	color: @d3;
+  height: 18px;
+	line-height: 1.4;
+	text-transform: uppercase;
+	&:hover {
+		border-color: @d0;
+		border-radius: 0;
+		color: @d0;
+	}
+	&:active {
+		background-color: @b5;
+		border-color: @active_b1;
+		color: @active_a;
+	}
+	&:focus {
+		border-color: @active_a;
+		color: @d3;
+	}
+}
+
+.ant-calendar-body {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.ant-calendar-footer {
+	background-color: @b5;
+  line-height: 28px;
+  padding: 0 4px;
+}
+
+.ant-calendar-time .ant-calendar-footer .ant-calendar-today-btn,
+.ant-calendar-time .ant-calendar-footer .ant-calendar-time-picker-btn {
+	color: @active_a;
+	&:hover {
+		color: @active_b2;
+	}
+	&:active {
+		color: @active_c1;
+	}
+	&:focus {
+		color: @active_c1;
+	}
+}
+
+.ant-calendar-today-btn {
+	margin-right: 7px;
+}
+
+.ant-calendar-time-picker-btn {
+	float: left;
+	padding-left: 8px;
+  &::before {
+    border-left: 1px solid @b4;
+    content: " ";
+    padding-left: 8px;
+  }
+}
+
+.ant-calendar-time-picker {
+  background-color: @b4;
+  top: 24px;
+}
+
+.ant-calendar-time-picker-panel {
+	background-color: @b5;
+	&::after {
+		border-bottom: 1px solid @b1;
+		bottom: 4px;
+		content: " ";
+		left: 0;
+		position: absolute;
+		right: 0;
+	}
+}
+
+/* Keeps the scrollbars visible all the time */
+.ant-calendar-time-picker-select {
+  background-color: @b4;
+	color: @c1;
+	overflow-y: scroll;
+}
+
+
+li.ant-calendar-time-picker-select-option-selected {
+  background-color: @active_a;
+  color: @b5;
+	&:hover {
+		background-color: @active_a;
+		color: @b5;
+	}
+}
+
+.ant-calendar-decade-panel-century {
+  color: @d3;
+}
+
+.ant-calendar-month-panel,
+.ant-calendar-year-panel,
+.ant-calendar-decade-panel {
+	background-color: @b4;
+}
+
+.ant-calendar-month-panel-header,
+.ant-calendar-year-panel-header,
+.ant-calendar-decade-panel-header {
+  background-color: @b3;
+	height: 24px;
+	line-height: 24px;
+}
+
+.ant-calendar-month-panel-body,
+.ant-calendar-year-panel-body,
+.ant-calendar-decade-panel-body {
+  background-color: @b4;
+}
+
+.ant-calendar-month-panel-header .ant-calendar-month-panel-century-select,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-decade-select,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-year-select,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-month-select,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-prev-century-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-next-century-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-prev-decade-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-next-decade-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-prev-month-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-next-month-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-prev-year-btn,
+.ant-calendar-month-panel-header .ant-calendar-month-panel-next-year-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-century-select,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-decade-select,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-year-select,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-month-select,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-prev-century-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-next-century-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-prev-decade-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-next-decade-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-prev-month-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-next-month-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-prev-year-btn,
+.ant-calendar-year-panel-header .ant-calendar-year-panel-next-year-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-century-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-century-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-decade-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-decade-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-month-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-month-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-year-btn,
+.ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-year-btn,
+.ant-calendar-header .ant-calendar-prev-century-btn, 
+.ant-calendar-header .ant-calendar-next-century-btn, 
+.ant-calendar-header .ant-calendar-prev-decade-btn, 
+.ant-calendar-header .ant-calendar-next-decade-btn, 
+.ant-calendar-header .ant-calendar-prev-month-btn, 
+.ant-calendar-header .ant-calendar-next-month-btn, 
+.ant-calendar-header .ant-calendar-prev-year-btn, 
+.ant-calendar-header .ant-calendar-next-year-btn,
+.ant-calendar-header .ant-calendar-century-select,
+.ant-calendar-header .ant-calendar-decade-select, 
+.ant-calendar-header .ant-calendar-year-select, 
+.ant-calendar-header .ant-calendar-month-select,
+.ant-calendar-time .ant-calendar-day-select {
+  line-height: 20px;
+}
+
+.ant-calendar-time-picker-select::-webkit-scrollbar-track
+{
+	border: 1px solid @b2;
+}
+
+.ant-calendar-time-picker-select::-webkit-scrollbar
+{
+	background-color: @b3;
+	width: 8px;
+}
+
+.ant-calendar-time-picker-select::-webkit-scrollbar-thumb
+{
+	background-color: @c3;
+	border: 1px solid @b2;
+}
+
+/* Collapse */
+
+.ant-collapse {
+	background-color: @d3;
+	border-radius: 0;
+	border: none;
+}
+
+.ant-collapse-header {
+	background-color: @d2;
+	border: 1px solid @d1;
+	color: @b1;
+	&:hover {
+		color: @a;
+	}
+}
+
+.ant-collapse > .ant-collapse-item {
+	border-bottom: 0;
+}
+
+.ant-collapse > .ant-collapse-item > .ant-collapse-header {
+	// background-color: transparent;
+	color: @b1;
+	height: 24px;
+	line-height: 6px;
+	&:active {
+		background-color: @d2 !important;
+	}
+}
+
+.ant-collapse > .ant-collapse-item > .ant-collapse-header .arrow {
+	background-image: data-uri('image/jpeg;base64', '../../resources/triangle-rt-6x8-b1.png');
+	height: 8px;
+	margin-top: 7px;
+	transform: scale(1) !important;
+	width: 6px;
+	&::before {
+		content: "";
+	}
+}
+
+.ant-collapse > .ant-collapse-item > .ant-collapse-header[aria-expanded="true"] .arrow {
+	transform: scale(1) rotate(90deg) !important;
+}
+
+.ant-collapse-content {
+	background-color: @d4;
+	padding: 6px;
+}
+
+.ant-collapse-content > .ant-collapse-content-box {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.ant-collapse-item:last-child {
+	margin-top: 10px;
+}
+
+.ant-collapse > .ant-collapse-item:last-child,
+.ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header,
+.ant-collapse-item:last-child > .ant-collapse-content {
+	border-radius: 0;
+}
+
+/* videoSourcesAntd overrides */
+
+.videoSourcesAntd .ant-collapse {
+	height: 100vh;
+}
+
+.videoSourcesAntd .ant-collapse-content-box {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	overflow: hidden;
+}
+
+.videoSourcesAntd .ant-collapse-content.ant-collapse-content-active {
+	bottom: 3px;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 24px; // show below header
+}
+
+/* Popover */
+
+.ant-popover {
+  border: 6px solid @c1;
+  padding-bottom: 0;
+  &::before {
+    border: 1px solid @d3;
+    bottom: -7px;
+    content: "";
+    left: -7px;
+    pointer-events: none;
+    position: absolute;
+    right: -7px;
+    top: -7px;
+  }
+}
+
+.ant-popover-placement-top > .ant-popover-content > .ant-popover-arrow,
+.ant-popover-placement-topLeft > .ant-popover-content > .ant-popover-arrow,
+.ant-popover-placement-topRight > .ant-popover-content > .ant-popover-arrow {
+  background-color: @c1;
+  border-top-color: @d3;
+  bottom: -4px;
+  left: 10px;
+	&::after {
+    border-top-color: @b4;
+	}
+}
+
+.ant-popover-placement-bottom,
+.ant-popover-placement-bottomLeft,
+.ant-popover-placement-bottomRight,
+.ant-popover-placement-left,
+.ant-popover-placement-leftTop,
+.ant-popover-placement-leftBottom {
+  padding: 0;
+}
+
+.ant-popover-placement-bottom > .ant-popover-content > .ant-popover-arrow,
+.ant-popover-placement-bottomLeft > .ant-popover-content > .ant-popover-arrow,
+.ant-popover-placement-bottomRight > .ant-popover-content > .ant-popover-arrow {
+  background-color: @c1;
+  border-bottom-color: @d3;
+  top: -4px;
+  left: 10px;
+  &::after {
+    border-bottom-color: @b4;
+	}
+}
+
+.ant-popover-placement-left > .ant-popover-content > .ant-popover-arrow {
+  background-color: @c1;
+  border-left-color: @d3;
+  right: -4px;
+  &::after {
+    border-left-color: @b4;
+	}
+}
+
+.ant-popover-inner {
+  border: 1px solid @d3;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.ant-popover-inner-content {
+  background-color: @b4;
+  padding: 10px;
+}
+/* Autocomplete */
+
+.ant-select-combobox .ant-select-search--inline {
+	background-color: @d3;
+}
+
+.ant-select-combobox .ant-select-search__field__wrap {
+	background-color: @d3;
+}
+
+.ant-select-dropdown {
+	border: 0;
+	border-radius: 0;
+	// margin-top: -16px; // brings dropdown up
+	width: auto !important;
+}
+
+.ant-select-dropdown-menu-item,
+.ant-select-dropdown-menu-item-active {
+	color: @c2;
+	&:active,
+	&:hover {
+		background-color: @b4;
+	}
+}
+
+.ant-select-dropdown-menu-item-active {
+	background-color: @b4;
+}
+
+.ant-select-auto-complete.ant-select .ant-input:focus,
+.ant-select-auto-complete.ant-select .ant-input:hover,
+.ant-select-auto-complete.ant-select .ant-input-hivis:focus,
+.ant-select-auto-complete.ant-select .ant-input-hivis:hover {
+    border-color: @d0;
+}
+
+.anticon-cross-circle {
+  color: @d3;
+  opacity: 1;
+  &:before {
+    color: @b1;
+  }
+}

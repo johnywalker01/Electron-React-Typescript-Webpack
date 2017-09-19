@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VideoXpert Portal, using Electron</title>
+    <link rel="icon" href="./favicon.ico?modified=2016-12-21" />
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <div id="app-container"></div>
+    <div id="BrowserWarning_container">
+      <div id="BrowserWarning_title">
+        Unsupported Browser
+      </div>
+      <div id="BrowserWarning_message">
+        VideoXpert Portal requires Google Chrome 50+, Mozilla Firefox 50+, Microsoft Edge 14+,
+        Microsoft Internet Explorer 11+ or Safari 600+ with Javascript enabled.
+      </div>
+    </div>
+    <script>
+      if (isSupportedBrowser()) {
+        document.getElementById("BrowserWarning_container").style.display = 'none';
+      } else {
+        document.getElementById("app-container").style.display = 'none';
+        const localizedWarning = getLocalizedWarning();
+        if (localizedWarning) {
+          document.getElementById("BrowserWarning_title").innerHTML = localizedWarning.title;
+          document.getElementById("BrowserWarning_message").innerHTML = localizedWarning.message;
+        }
+      }
+
+     function isSupportedBrowser() {
+        const browserInfo = detectBrowser(navigator.userAgent);
+        window.browserInfo = browserInfo
+
+        if ((browserInfo.name == "Chrome" && browserInfo.version >= 50)
+          || (browserInfo.name == "Firefox" && browserInfo.version >= 50)
+          || (browserInfo.name == "InternetExplorer" && browserInfo.version >= 11)
+          || (browserInfo.name == "Safari" && browserInfo.version >= 600)
+          || (browserInfo.name == "Edge" && browserInfo.version >= 13)
+        ) {
+          console.log("Browser:", browserInfo.name, browserInfo.version, "is supported");
+          return browserInfo;
+        }
+
+        console.log("Browser:", browserInfo.name, browserInfo.version, "is not supported");
+        return null;
+      }
+
+      /**** Begin copy from browser-detect.js ****/
+      function detectBrowser(userAgent) {
+        const browserPatterns = {
+          "Firefox": /Firefox\/([0-9.]+)/,
+          "InternetExplorer": /rv:([0-9.]+)/,
+          "Edge": /Edge\/([0-9.]+)/,
+          "Chrome": /Chrome\/([0-9.]+)/,
+          "Safari": /Safari\/([0-9.]+)/,
+        };
+
+        for (let browser in browserPatterns) {
+          const pattern = browserPatterns[browser];
+          const match = pattern.exec(userAgent);
+          if (match) {
+            return {name: browser, version: parseFloat(match[1])};
+          }
+        }
+
+        return {name: "UnknownBrowser", version: -1};
+      }
+      /**** End copy from browser-detect.js ****/
+
+      function getLocalizedWarning() {
+        const locale = navigator.language.replace(/-.*$/, '')
+
+        const todoLocalize = {
+          title: "Unsupported Browser",
+          message: "VideoXpert Portal requires Google Chrome 50+, Mozilla Firefox 50+, Microsoft Edge 14+, " +
+            "Microsoft Internet Explorer 11+ or Safari 600+ with Javascript enabled.",
+        };
+
+        const localizedWarnings = {
+          "ar": todoLocalize,
+          "de": todoLocalize,
+          "es": todoLocalize,
+          "fr": todoLocalize,
+          "it": todoLocalize,
+          "ja": todoLocalize,
+          "ko": todoLocalize,
+          "pl": todoLocalize,
+          "pt": todoLocalize,
+          "ru": todoLocalize,
+          "tr": todoLocalize,
+          "zh": todoLocalize,
+        }
+
+        return locale in localizedWarnings ? localizedWarnings[locale] : null
+      }
+    </script>
+    <!-- Main -->
+    <script src="./build/bundle.js"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "transform-class-properties","transform-decorators-legacy",
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      }
+    ]
+  ]
+}

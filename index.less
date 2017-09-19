@@ -1,0 +1,79 @@
+@import 'node_modules/antd/dist/antd.less';
+@import 'src/themes/default.less';
+
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+*:focus {
+  border: none;
+  outline: none;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  background-color: #333; /* d3 */
+  color: #aaa; /* b1 */
+  overflow-y: hidden; 
+}
+
+div, span, h1, h2, h3, h4, h5, h6, p {
+  font-family: inherit;
+  font-size: inherit;
+  background-color: inherit;
+  color: inherit;
+}
+
+table, thead, tbody, tr, td {
+  font-family: inherit;
+  font-size: inherit;
+  background-color: inherit;
+  color: inherit;
+}
+
+input, textarea, keygen, select, button, a {
+  font-family: inherit;
+  font-size: inherit;
+  background-color: inherit;
+  color: inherit
+}
+
+#app-container {
+  flex: 1;
+  display: flex;
+  width: 100%;
+}
+
+h1 {
+  margin: 0 0 8px 0;
+  font-size: 18px;
+}
+
+#BrowserWarning_container {
+  margin: 100px auto auto auto;
+  border: 2px solid #000;
+  padding: 8px;
+  width: 350px;
+  background-color: #222;
+}
+
+#BrowserWarning_title {
+  font-size: 20px;
+}
+
+#BrowserWarning_message {
+  font-size: 18px;
+  margin-top: 10px;
+  padding: 8px;
+  background-color: #333;
+}

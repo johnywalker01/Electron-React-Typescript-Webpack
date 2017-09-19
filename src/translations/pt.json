@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "vxweb.ChangePasswordDialog.cancelButton",
+    "defaultMessage": "Cancel",
+    "message": "Cancelar"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.changePassword",
+    "defaultMessage": "Change Password",
+    "message": "Alterar senha"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.currentPassword",
+    "defaultMessage": "Current Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.insufficientPrivileges",
+    "defaultMessage": "Your account has insufficent privileges.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.newPassword",
+    "defaultMessage": "New Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordInvalid",
+    "defaultMessage": "Invalid password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreDigits",
+    "defaultMessage": "New password needs more digits.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreLower",
+    "defaultMessage": "New password needs more lower case characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreSpecial",
+    "defaultMessage": "New password needs more special characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreUpper",
+    "defaultMessage": "New password needs more upper case characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordTooShort",
+    "defaultMessage": "New password was too short.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordTooSimilar",
+    "defaultMessage": "New password was too similar to a previous password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordsDoNotMatch",
+    "defaultMessage": "Passwords do not match.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.retypePassword",
+    "defaultMessage": "Retype New Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.saveButton",
+    "defaultMessage": "Save",
+    "message": "Salvar"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.serverDoesNotSupportChangingPassword",
+    "defaultMessage": "The server does not support changing your password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.unknownError",
+    "defaultMessage": "Sorry, an unknown error occurred while changing your password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.verifyCurrentPassword",
+    "defaultMessage": "Please verify your Password, then try again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.changePassword",
+    "defaultMessage": "Change Password",
+    "message": "Alterar senha"
+  },
+  {
+    "id": "vxweb.LoginScreen.loginAgain",
+    "defaultMessage": "Your session has expired.  Please login again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.loginButton",
+    "defaultMessage": "Log In",
+    "message": "Fazer login"
+  },
+  {
+    "id": "vxweb.LoginScreen.loginHeadingLabel",
+    "defaultMessage": "Login",
+    "message": "Login"
+  },
+  {
+    "id": "vxweb.LoginScreen.ok",
+    "defaultMessage": "Ok",
+    "message": "Ok"
+  },
+  {
+    "id": "vxweb.LoginScreen.passwordExpired",
+    "defaultMessage": "Password expired",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.passwordLabel",
+    "defaultMessage": "Password",
+    "message": "Senha"
+  },
+  {
+    "id": "vxweb.LoginScreen.sessionExpired",
+    "defaultMessage": "Session Expired",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.usernameLabel",
+    "defaultMessage": "Username",
+    "message": "Nome do usuário"
+  },
+  {
+    "id": "vxweb.LoginScreen.verifyPasswordError",
+    "defaultMessage": "Please verify your Username and your Password, then try again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.verifyUsernameError",
+    "defaultMessage": " ",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.byNameOrID",
+    "defaultMessage": "by Name or Number",
+    "message": "por nome ou número"
+  },
+  {
+    "id": "vxweb.Sidebar.clearAll",
+    "defaultMessage": "Clear All",
+    "message": "Apagar tudo"
+  },
+  {
+    "id": "vxweb.Sidebar.filter",
+    "defaultMessage": "Filter:",
+    "message": "Filtro:"
+  },
+  {
+    "id": "vxweb.Sidebar.ipAddress",
+    "defaultMessage": "IP ADDRESS",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.model",
+    "defaultMessage": "TYPE",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.moreOptions",
+    "defaultMessage": "More Options",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.name",
+    "defaultMessage": "NAME",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.noFilter",
+    "defaultMessage": "(no filter)",
+    "message": "(sem filtro)"
+  },
+  {
+    "id": "vxweb.Sidebar.not",
+    "defaultMessage": "NOT",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.notOnScreen",
+    "defaultMessage": "NOT On Screen",
+    "message": "NÃO está na tela"
+  },
+  {
+    "id": "vxweb.Sidebar.notOnline",
+    "defaultMessage": "NOT Online",
+    "message": "NÃO está on-line"
+  },
+  {
+    "id": "vxweb.Sidebar.notRecording",
+    "defaultMessage": "NOT Recording",
+    "message": "NÃO está gravando"
+  },
+  {
+    "id": "vxweb.Sidebar.of",
+    "defaultMessage": "of",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.off",
+    "defaultMessage": "Off",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.on",
+    "defaultMessage": "On",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.onScreen",
+    "defaultMessage": "On Screen",
+    "message": "Na tela"
+  },
+  {
+    "id": "vxweb.Sidebar.online",
+    "defaultMessage": "Online",
+    "message": "On-line"
+  },
+  {
+    "id": "vxweb.Sidebar.recording",
+    "defaultMessage": "Recording",
+    "message": "Gravando"
+  },
+  {
+    "id": "vxweb.Sidebar.serial",
+    "defaultMessage": "SERIAL",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.showing",
+    "defaultMessage": "Showing",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.videoSources",
+    "defaultMessage": "Video Sources",
+    "message": "Fontes de vídeo"
+  },
+  {
+    "id": "vxweb.Situations.admin_clipsRemoved",
+    "defaultMessage": "Clips Removed",
+    "message": "Clipes removidos"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupFailed",
+    "defaultMessage": "Core Db Backup Failed",
+    "message": "Falha de backup de banco de dados do núcleo"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupHalted",
+    "defaultMessage": "Core Db Backup Halted",
+    "message": "Backup de banco de dados do núcleo interrompido"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupRemoved",
+    "defaultMessage": "Core Db Backup Removed",
+    "message": "Backup de banco de dados do núcleo removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupRestore",
+    "defaultMessage": "Core Db Backup Restore",
+    "message": "Backup de banco de dados do núcleo restaurado"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupStarted",
+    "defaultMessage": "Core Db Backup Started",
+    "message": "Backup de banco de dados do núcleo iniciado"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupSuccess",
+    "defaultMessage": "Core Db Backup Success",
+    "message": "Backup de banco de dados do núcleo bem-sucedido"
+  },
+  {
+    "id": "vxweb.Situations.admin_dataSourceModified",
+    "defaultMessage": "Data Source Modified",
+    "message": "Fonte de dados modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_dataStorageModified",
+    "defaultMessage": "Data Storage Modified",
+    "message": "Armazenamento de dados modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceAdded",
+    "defaultMessage": "Device Added",
+    "message": "Dispositivo adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceAssigned",
+    "defaultMessage": "Device Assigned",
+    "message": "Dispositivo atribuído"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceCommissioned",
+    "defaultMessage": "Device Commissioned",
+    "message": "Dispositivo encomendado"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceDecommissioned",
+    "defaultMessage": "Device Decommissioned",
+    "message": "Dispositivo não encomendado"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceModified",
+    "defaultMessage": "Device Modified",
+    "message": "Dispositivo modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceRebooted",
+    "defaultMessage": "Device Rebooted",
+    "message": "Dispositivo reiniciado"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceRemoved",
+    "defaultMessage": "Device Removed",
+    "message": "Dispositivo removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceReset",
+    "defaultMessage": "Device Reset",
+    "message": "Dispositivo redefinido"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceUnassigned",
+    "defaultMessage": "Device Unassigned",
+    "message": "Dispositivo não atribuído"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingAdded",
+    "defaultMessage": "Drawing Added",
+    "message": "Desenho adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageModified",
+    "defaultMessage": "Drawing Image Modified",
+    "message": "Imagem de desenho modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageRemoved",
+    "defaultMessage": "Drawing Image Removed",
+    "message": "Imagem de desenho removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageRetrieved",
+    "defaultMessage": "Drawing Image Retrieved",
+    "message": "Imagem de desenho recuperada"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerAdded",
+    "defaultMessage": "Drawing Marker Added",
+    "message": "Marcador de desenho adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerModified",
+    "defaultMessage": "Drawing Marker Modified",
+    "message": "Marcador de desenho modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerRemoved",
+    "defaultMessage": "Drawing Marker Removed",
+    "message": "Marcador de desenho removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingModified",
+    "defaultMessage": "Drawing Modified",
+    "message": "Desenho modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingRemoved",
+    "defaultMessage": "Drawing Removed",
+    "message": "Desenho removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingsModified",
+    "defaultMessage": "Drawings Modified",
+    "message": "Desenhos modificados"
+  },
+  {
+    "id": "vxweb.Situations.admin_exportPathModified",
+    "defaultMessage": "Export Path Modified",
+    "message": "Exportar caminho modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseAdded",
+    "defaultMessage": "License Added",
+    "message": "Licença adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseExpired",
+    "defaultMessage": "License Expired",
+    "message": "Licença expirada"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseFailure",
+    "defaultMessage": "License Failure",
+    "message": "Falha na licença"
+  },
+  {
+    "id": "vxweb.Situations.admin_logAdded",
+    "defaultMessage": "Log Added",
+    "message": "Registro adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_logDownloaded",
+    "defaultMessage": "Log Downloaded",
+    "message": "Registro baixado"
+  },
+  {
+    "id": "vxweb.Situations.admin_logRemoved",
+    "defaultMessage": "Log Removed",
+    "message": "Registro removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberAdded",
+    "defaultMessage": "Member Added",
+    "message": "Membro adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberModified",
+    "defaultMessage": "Member Modified",
+    "message": "Membro modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberRemoved",
+    "defaultMessage": "Member Removed",
+    "message": "Membro removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorAdded",
+    "defaultMessage": "Monitor Added",
+    "message": "Monitor adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorCellModified",
+    "defaultMessage": "Monitor Cell Modified",
+    "message": "Célula do monitor modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorModified",
+    "defaultMessage": "Monitor Modified",
+    "message": "Monitor modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorRemoved",
+    "defaultMessage": "Monitor Removed",
+    "message": "Monitor removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallAdded",
+    "defaultMessage": "Monitorwall Added",
+    "message": "Parede de monitores adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallModified",
+    "defaultMessage": "Monitorwall Modified",
+    "message": "Parede de monitores modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallRemoved",
+    "defaultMessage": "Monitorwall Removed",
+    "message": "Parede de monitores removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_newExportKeys",
+    "defaultMessage": "New Export Keys",
+    "message": "Novas chaves de exportação"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationAdded",
+    "defaultMessage": "Notification Added",
+    "message": "Notificação adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationAddedRole",
+    "defaultMessage": "Notification Added Role",
+    "message": "Função de notificação adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationRemoved",
+    "defaultMessage": "Notification Removed",
+    "message": "Notificação removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationRemovedRole",
+    "defaultMessage": "Notification Removed Role",
+    "message": "Função de notificação removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_passwordUpdateFailure",
+    "defaultMessage": "Password Update Failure",
+    "message": "Falha na atualização da senha"
+  },
+  {
+    "id": "vxweb.Situations.admin_passwordUpdateSuccess",
+    "defaultMessage": "Password Update Success",
+    "message": "Atualização da senha com êxito"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeAdded",
+    "defaultMessage": "Privilege Added",
+    "message": "Privilégio adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeModified",
+    "defaultMessage": "Privilege Modified",
+    "message": "Privilégio modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeRemoved",
+    "defaultMessage": "Privilege Removed",
+    "message": "Privilégio removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_ptzPresetAdded",
+    "defaultMessage": "Ptz Preset Added",
+    "message": "Pré-posicionamento PTZ adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_ptzPresetRemoved",
+    "defaultMessage": "Ptz Preset Removed",
+    "message": "Pré-posicionamento PTZ removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleAdded",
+    "defaultMessage": "Role Added",
+    "message": "Função adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleModified",
+    "defaultMessage": "Role Modified",
+    "message": "Função modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleRemoved",
+    "defaultMessage": "Role Removed",
+    "message": "Função removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleAdded",
+    "defaultMessage": "Rule Added",
+    "message": "Regra adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleModified",
+    "defaultMessage": "Rule Modified",
+    "message": "Regra modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleRemoved",
+    "defaultMessage": "Rule Removed",
+    "message": "Regra removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleAdded",
+    "defaultMessage": "Schedule Added",
+    "message": "Programação adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleModified",
+    "defaultMessage": "Schedule Modified",
+    "message": "Programação modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleRemoved",
+    "defaultMessage": "Schedule Removed",
+    "message": "Programação removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationAdded",
+    "defaultMessage": "Situation Added",
+    "message": "Situação adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationModified",
+    "defaultMessage": "Situation Modified",
+    "message": "Situação modificada"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationNotificationAdded",
+    "defaultMessage": "Situation Notification Added",
+    "message": "Notificação de situação adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationNotificationRemoved",
+    "defaultMessage": "Situation Notification Removed",
+    "message": "Notificação de situação removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationRemoved",
+    "defaultMessage": "Situation Removed",
+    "message": "Situação removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_sshDisabled",
+    "defaultMessage": "Ssh Disabled",
+    "message": "SSH desativado"
+  },
+  {
+    "id": "vxweb.Situations.admin_sshEnabled",
+    "defaultMessage": "Ssh Enabled",
+    "message": "SSH ativado"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableAdded",
+    "defaultMessage": "Timetable Added",
+    "message": "Calendário adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableModified",
+    "defaultMessage": "Timetable Modified",
+    "message": "Calendário modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableRemoved",
+    "defaultMessage": "Timetable Removed",
+    "message": "Calendário removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_userAdded",
+    "defaultMessage": "User Added",
+    "message": "Usuário adicionado"
+  },
+  {
+    "id": "vxweb.Situations.admin_userModified",
+    "defaultMessage": "User Modified",
+    "message": "Usuário modificado"
+  },
+  {
+    "id": "vxweb.Situations.admin_userNewPassword",
+    "defaultMessage": "User New Password",
+    "message": "Senha nova do usuário"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRemoved",
+    "defaultMessage": "User Removed",
+    "message": "Usuário removido"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRoleAdded",
+    "defaultMessage": "User Role Added",
+    "message": "Função de usuário adicionada"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRoleRemoved",
+    "defaultMessage": "User Role Removed",
+    "message": "Função de usuário removida"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRebuild",
+    "defaultMessage": "Vxs Db Rebuild",
+    "message": "Banco de dados VxStorage recompilado"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRecover",
+    "defaultMessage": "Vxs Db Recover",
+    "message": "Banco de dados VxStorage recuperado"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRestore",
+    "defaultMessage": "Vxs Db Restore",
+    "message": "Banco de dados VxStorage restaurado"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsReconfigured",
+    "defaultMessage": "Vxs Reconfigured",
+    "message": "VxStorage reconfigurado"
+  },
+  {
+    "id": "vxweb.Situations.analytic_abandonedObject",
+    "defaultMessage": "Abandoned Object",
+    "message": "Objeto abandonado"
+  },
+  {
+    "id": "vxweb.Situations.analytic_adaptiveMotion",
+    "defaultMessage": "Adaptive Motion",
+    "message": "Movimento adaptativo"
+  },
+  {
+    "id": "vxweb.Situations.analytic_directionalMotion",
+    "defaultMessage": "Directional Motion",
+    "message": "Movimento direcional"
+  },
+  {
+    "id": "vxweb.Situations.analytic_loitering",
+    "defaultMessage": "Loitering",
+    "message": "Ocioso"
+  },
+  {
+    "id": "vxweb.Situations.analytic_motion",
+    "defaultMessage": "Motion",
+    "message": "Movimento detectado"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noAbandonedObject",
+    "defaultMessage": "No Abandoned Object",
+    "message": "Sem objetos abandonados"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noAdaptiveMotion",
+    "defaultMessage": "No Adaptive Motion",
+    "message": "Sem movimento adaptativo"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noDirectionalMotion",
+    "defaultMessage": "No Directional Motion",
+    "message": "Sem movimento direcional"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noLoitering",
+    "defaultMessage": "No Loitering",
+    "message": "Sem tempo ocioso"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noMotion",
+    "defaultMessage": "No Motion",
+    "message": "Nenhum movimento detectado"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noObjectCount",
+    "defaultMessage": "No Object Count",
+    "message": "Sem contagem de objetos"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noObjectRemoval",
+    "defaultMessage": "No Object Removal",
+    "message": "Nenhuma remoção de objetos"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noSabotage",
+    "defaultMessage": "No Sabotage",
+    "message": "Sem sabotagem"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noStoppedVehicle",
+    "defaultMessage": "No Stopped Vehicle",
+    "message": "Nenhum veículo parado"
+  },
+  {
+    "id": "vxweb.Situations.analytic_objectCount",
+    "defaultMessage": "Object Count",
+    "message": "Contagem de objetos"
+  },
+  {
+    "id": "vxweb.Situations.analytic_objectRemoval",
+    "defaultMessage": "Object Removal",
+    "message": "Remoção de objetos"
+  },
+  {
+    "id": "vxweb.Situations.analytic_sabotage",
+    "defaultMessage": "Sabotage",
+    "message": "Sabotagem"
+  },
+  {
+    "id": "vxweb.Situations.analytic_stoppedVehicle",
+    "defaultMessage": "Stopped Vehicle",
+    "message": "Veículo parado"
+  },
+  {
+    "id": "vxweb.Situations.client_logoff",
+    "defaultMessage": "Logoff",
+    "message": "Fazer logoff"
+  },
+  {
+    "id": "vxweb.Situations.client_logon",
+    "defaultMessage": "Logon",
+    "message": "Login"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewAccepted",
+    "defaultMessage": "Saved View Accepted",
+    "message": "Visualização salva aceita"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewReceived",
+    "defaultMessage": "Saved View Received",
+    "message": "Visualização salva recebida"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewSent",
+    "defaultMessage": "Saved View Sent",
+    "message": "Visualização salva enviada"
+  },
+  {
+    "id": "vxweb.Situations.client_snooze",
+    "defaultMessage": "Snooze",
+    "message": "Adiamento"
+  },
+  {
+    "id": "vxweb.Situations.client_tabAdded",
+    "defaultMessage": "Tab Added",
+    "message": "Guia adicionada "
+  },
+  {
+    "id": "vxweb.Situations.client_tabModified",
+    "defaultMessage": "Tab Modified",
+    "message": "Guia modificada"
+  },
+  {
+    "id": "vxweb.Situations.client_tabRemoved",
+    "defaultMessage": "Tab Removed",
+    "message": "Guia removida"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceAdded",
+    "defaultMessage": "Workspace Added",
+    "message": "Espaço de trabalho adicionado"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceModified",
+    "defaultMessage": "Workspace Modified",
+    "message": "Espaço de trabalho modificado"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceRemoved",
+    "defaultMessage": "Workspace Removed",
+    "message": "Espaço de trabalho removido"
+  },
+  {
+    "id": "vxweb.Situations.hardware_cpuLoad",
+    "defaultMessage": "Cpu Load",
+    "message": "Carga da CPU"
+  },
+  {
+    "id": "vxweb.Situations.hardware_diskFailure",
+    "defaultMessage": "Disk Failure",
+    "message": "Falha do disco"
+  },
+  {
+    "id": "vxweb.Situations.hardware_fanFailure",
+    "defaultMessage": "Fan Failure",
+    "message": "Falha da ventoinha"
+  },
+  {
+    "id": "vxweb.Situations.hardware_inputLoss",
+    "defaultMessage": "Input Loss",
+    "message": "Alimentação de entrada perdida"
+  },
+  {
+    "id": "vxweb.Situations.hardware_inputRestored",
+    "defaultMessage": "Input Restored",
+    "message": "Alimentação de entrada restaurada"
+  },
+  {
+    "id": "vxweb.Situations.hardware_linkSpeed",
+    "defaultMessage": "Link Speed",
+    "message": "Velocidade do link alterada"
+  },
+  {
+    "id": "vxweb.Situations.hardware_memoryLoad",
+    "defaultMessage": "Memory Load",
+    "message": "Carregamento de memória"
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeFull",
+    "defaultMessage": "Network Volume Full",
+    "message": "Volume de rede cheio"
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeOffline",
+    "defaultMessage": "Network Volume Offline",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeOnline",
+    "defaultMessage": "Network Volume Online",
+    "message": "Volume de rede on-line"
+  },
+  {
+    "id": "vxweb.Situations.hardware_packetLoss",
+    "defaultMessage": "Packet Loss",
+    "message": "Perda de pacote"
+  },
+  {
+    "id": "vxweb.Situations.hardware_psFailure",
+    "defaultMessage": "Ps Failure",
+    "message": "Falha na fonte de força"
+  },
+  {
+    "id": "vxweb.Situations.hardware_temperature",
+    "defaultMessage": "Temperature",
+    "message": "Problema de temperatura"
+  },
+  {
+    "id": "vxweb.Situations.hardware_upsLow",
+    "defaultMessage": "Ups Low",
+    "message": "UPS baixo"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeFull",
+    "defaultMessage": "Volume Full",
+    "message": "Volume cheio"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeOffline",
+    "defaultMessage": "Volume Offline",
+    "message": "Volume off-line"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeOnline",
+    "defaultMessage": "Volume Online",
+    "message": "Volume on-line"
+  },
+  {
+    "id": "vxweb.Situations.system_alarmActive",
+    "defaultMessage": "Alarm Active",
+    "message": "Alarme ativo"
+  },
+  {
+    "id": "vxweb.Situations.system_alarmInactive",
+    "defaultMessage": "Alarm Inactive",
+    "message": "Alarme inativo"
+  },
+  {
+    "id": "vxweb.Situations.system_authenticationFailure",
+    "defaultMessage": "Authentication Failure",
+    "message": "Falha na autenticação"
+  },
+  {
+    "id": "vxweb.Situations.system_authorizationFailure",
+    "defaultMessage": "Authorization Failure",
+    "message": "Falha na autorização"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkAdded",
+    "defaultMessage": "Bookmark Added",
+    "message": "Marcador adicionado"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockDisabled",
+    "defaultMessage": "Bookmark Lock Disabled",
+    "message": "Bloqueio do marcador desativado"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockEnabled",
+    "defaultMessage": "Bookmark Lock Enabled",
+    "message": "Bloqueio do marcador ativado"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockModified",
+    "defaultMessage": "Bookmark Lock Modified",
+    "message": "Bloqueio do marcador modificado"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkModified",
+    "defaultMessage": "Bookmark Modified",
+    "message": "Marcador modificado"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkRemoved",
+    "defaultMessage": "Bookmark Removed",
+    "message": "Marcador removido"
+  },
+  {
+    "id": "vxweb.Situations.system_clientPush",
+    "defaultMessage": "Client Push",
+    "message": "Envio de cliente"
+  },
+  {
+    "id": "vxweb.Situations.system_clientPushAck",
+    "defaultMessage": "Client Push Ack",
+    "message": "Envio de cliente confirmado"
+  },
+  {
+    "id": "vxweb.Situations.system_clipAdded",
+    "defaultMessage": "Clip Added",
+    "message": "Clipe adicionado"
+  },
+  {
+    "id": "vxweb.Situations.system_clipFailed",
+    "defaultMessage": "Clip Failed",
+    "message": "Falha no clipe"
+  },
+  {
+    "id": "vxweb.Situations.system_dataSourceOffline",
+    "defaultMessage": "Data Source Offline",
+    "message": "Fonte de dados off-line"
+  },
+  {
+    "id": "vxweb.Situations.system_dataSourceOnline",
+    "defaultMessage": "Data Source Online",
+    "message": "Fonte de dados on-line"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceOffline",
+    "defaultMessage": "Device Offline",
+    "message": "Dispositivo off-line"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceOnline",
+    "defaultMessage": "Device Online",
+    "message": "Dispositivo on-line"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceStatusInitialized",
+    "defaultMessage": "Device Status Initialized",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Situations.system_deviceStatusUnauthenticated",
+    "defaultMessage": "Device Status Unauthenticated",
+    "message": "Status de dispositivo não autenticado"
+  },
+  {
+    "id": "vxweb.Situations.system_exportDeleted",
+    "defaultMessage": "Export Deleted",
+    "message": "Exportação excluída"
+  },
+  {
+    "id": "vxweb.Situations.system_exportDownloaded",
+    "defaultMessage": "Export Downloaded",
+    "message": "Download da exportação concluído"
+  },
+  {
+    "id": "vxweb.Situations.system_exportFailure",
+    "defaultMessage": "Export Failure",
+    "message": "Falha na exportação"
+  },
+  {
+    "id": "vxweb.Situations.system_exportModified",
+    "defaultMessage": "Export Modified",
+    "message": "Exportação modificada"
+  },
+  {
+    "id": "vxweb.Situations.system_exportRestored",
+    "defaultMessage": "Export Restored",
+    "message": "Exportação restaurada"
+  },
+  {
+    "id": "vxweb.Situations.system_exportStarted",
+    "defaultMessage": "Export Started",
+    "message": "Exportação iniciada"
+  },
+  {
+    "id": "vxweb.Situations.system_exportSuccess",
+    "defaultMessage": "Export Success",
+    "message": "Exportação realizada com êxito"
+  },
+  {
+    "id": "vxweb.Situations.system_exportTrashed",
+    "defaultMessage": "Export Trashed",
+    "message": "Exportação enviada à lixeira"
+  },
+  {
+    "id": "vxweb.Situations.system_failoverCompleted",
+    "defaultMessage": "Failover Completed",
+    "message": "Failover concluído"
+  },
+  {
+    "id": "vxweb.Situations.system_failoverStarted",
+    "defaultMessage": "Failover Started",
+    "message": "Failover iniciado"
+  },
+  {
+    "id": "vxweb.Situations.system_fault",
+    "defaultMessage": "Fault",
+    "message": "Falha (equipamento)"
+  },
+  {
+    "id": "vxweb.Situations.system_manualRecordingAdded",
+    "defaultMessage": "Manual Recording Added",
+    "message": "Gravação manual adicionada"
+  },
+  {
+    "id": "vxweb.Situations.system_manualRecordingRemoved",
+    "defaultMessage": "Manual Recording Removed",
+    "message": "Gravação manual removida"
+  },
+  {
+    "id": "vxweb.Situations.system_memberOffline",
+    "defaultMessage": "Member Offline",
+    "message": "Membro off-line"
+  },
+  {
+    "id": "vxweb.Situations.system_memberOnline",
+    "defaultMessage": "Member Online",
+    "message": "Membro on-line"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzLock",
+    "defaultMessage": "Ptz Lock",
+    "message": "Bloqueio de PTZ"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzPatternTriggered",
+    "defaultMessage": "Ptz Pattern Triggered",
+    "message": "Padrão PTZ acionado"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzPresetTriggered",
+    "defaultMessage": "Ptz Preset Triggered",
+    "message": "Pré-posicionamento PTZ acionado"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzUnlock",
+    "defaultMessage": "Ptz Unlock",
+    "message": "Desbloqueio de PTZ"
+  },
+  {
+    "id": "vxweb.Situations.system_qlogDownloaded",
+    "defaultMessage": "Qlog Downloaded",
+    "message": "Registro rápido baixado"
+  },
+  {
+    "id": "vxweb.Situations.system_qreportDownloaded",
+    "defaultMessage": "Qreport Downloaded",
+    "message": "Download do relatório concluído"
+  },
+  {
+    "id": "vxweb.Situations.system_recordingFailureBandwidth",
+    "defaultMessage": "Recording Failure Bandwidth",
+    "message": "Falha na largura de banda da gravação"
+  },
+  {
+    "id": "vxweb.Situations.system_relayActive",
+    "defaultMessage": "Relay Active",
+    "message": "Relê ativo"
+  },
+  {
+    "id": "vxweb.Situations.system_relayInactive",
+    "defaultMessage": "Relay Inactive",
+    "message": "Relê inativo"
+  },
+  {
+    "id": "vxweb.Situations.system_retentionLow",
+    "defaultMessage": "Retention Low",
+    "message": "Retenção baixa"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptFailure",
+    "defaultMessage": "Script Failure",
+    "message": "Falha de script"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptStarted",
+    "defaultMessage": "Script Started",
+    "message": "Script iniciado"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptSuccess",
+    "defaultMessage": "Script Success",
+    "message": "Script bem-sucedido"
+  },
+  {
+    "id": "vxweb.Situations.system_streamLoss",
+    "defaultMessage": "Stream Loss",
+    "message": "Perda de transmissão"
+  },
+  {
+    "id": "vxweb.Situations.system_streamRestored",
+    "defaultMessage": "Stream Restored",
+    "message": "Transmissão restaurada"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewDenied",
+    "defaultMessage": "Stream View Denied",
+    "message": "Visualização de transmissão negada"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewStarted",
+    "defaultMessage": "Stream View Started",
+    "message": "Exibição de transmissão iniciada"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewStopped",
+    "defaultMessage": "Stream View Stopped",
+    "message": "Exibição de transmissão interrompida"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewTimeout",
+    "defaultMessage": "Stream View Timeout",
+    "message": "Tempo esgotado de visualização de transmissão"
+  },
+  {
+    "id": "vxweb.Situations.system_tagAdded",
+    "defaultMessage": "Tag Added",
+    "message": "Etiqueta adicionada"
+  },
+  {
+    "id": "vxweb.Situations.system_tagLinked",
+    "defaultMessage": "Tag Linked",
+    "message": "Etiqueta vinculada"
+  },
+  {
+    "id": "vxweb.Situations.system_tagMerged",
+    "defaultMessage": "Tag Merged",
+    "message": "Etiqueta mesclada"
+  },
+  {
+    "id": "vxweb.Situations.system_tagModified",
+    "defaultMessage": "Tag Modified",
+    "message": "Etiqueta modificada"
+  },
+  {
+    "id": "vxweb.Situations.system_tagRemoved",
+    "defaultMessage": "Tag Removed",
+    "message": "Etiqueta removida"
+  },
+  {
+    "id": "vxweb.Situations.system_tagUnlinked",
+    "defaultMessage": "Tag Unlinked",
+    "message": "Etiqueta não vinculada"
+  },
+  {
+    "id": "vxweb.VideoCell.errorCannotConnect",
+    "defaultMessage": "Cannot connect to video source",
+    "message": "Não é possível se conectar à fonte de vídeo"
+  },
+  {
+    "id": "vxweb.VideoCell.errorNoRecordingExists",
+    "defaultMessage": "No recording exists at this point",
+    "message": "Não existe gravação neste ponto"
+  },
+  {
+    "id": "vxweb.VideoCell.live",
+    "defaultMessage": "Live",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.VideoCell.ok",
+    "defaultMessage": "OK",
+    "message": "OK"
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedGeneralError",
+    "defaultMessage": "The PTZ command failed. Please try again.",
+    "message": "O comando PTZ falhou. Tente novamente."
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedHigherPriortyUserError",
+    "defaultMessage": "PTZ on this camera has been locked by a higher priority user.",
+    "message": "Os controles PTZ para esta câmera foram bloqueados por um usuário de maior prioridade."
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedOverrideError",
+    "defaultMessage": "PTZ on this camera has been locked by another user. Click the lock icon to override their lock.",
+    "message": "O PTZ nesta câmera foi bloqueado por outro usuário. Clique no ícone de cadeado para ignorar seu bloqueio."
+  },
+  {
+    "id": "vxweb.VideoTab.logoutLink",
+    "defaultMessage": "Log Out",
+    "message": "Fazer logout"
+  },
+  {
+    "id": "vxweb.VideoTab.settingsLink",
+    "defaultMessage": "Configure Server",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.VideoTab.tabName",
+    "defaultMessage": "Tab {tabNumber} ({layout})",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  }
+]

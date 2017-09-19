@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "vxweb.ChangePasswordDialog.cancelButton",
+    "defaultMessage": "Cancel",
+    "message": "キャンセル"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.changePassword",
+    "defaultMessage": "Change Password",
+    "message": "パスワードを変更"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.currentPassword",
+    "defaultMessage": "Current Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.insufficientPrivileges",
+    "defaultMessage": "Your account has insufficent privileges.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.newPassword",
+    "defaultMessage": "New Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordInvalid",
+    "defaultMessage": "Invalid password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreDigits",
+    "defaultMessage": "New password needs more digits.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreLower",
+    "defaultMessage": "New password needs more lower case characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreSpecial",
+    "defaultMessage": "New password needs more special characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreUpper",
+    "defaultMessage": "New password needs more upper case characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordTooShort",
+    "defaultMessage": "New password was too short.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordTooSimilar",
+    "defaultMessage": "New password was too similar to a previous password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordsDoNotMatch",
+    "defaultMessage": "Passwords do not match.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.retypePassword",
+    "defaultMessage": "Retype New Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.saveButton",
+    "defaultMessage": "Save",
+    "message": "保存"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.serverDoesNotSupportChangingPassword",
+    "defaultMessage": "The server does not support changing your password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.unknownError",
+    "defaultMessage": "Sorry, an unknown error occurred while changing your password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.verifyCurrentPassword",
+    "defaultMessage": "Please verify your Password, then try again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.changePassword",
+    "defaultMessage": "Change Password",
+    "message": "パスワードを変更"
+  },
+  {
+    "id": "vxweb.LoginScreen.loginAgain",
+    "defaultMessage": "Your session has expired.  Please login again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.loginButton",
+    "defaultMessage": "Log In",
+    "message": "ログイン"
+  },
+  {
+    "id": "vxweb.LoginScreen.loginHeadingLabel",
+    "defaultMessage": "Login",
+    "message": "ログイン"
+  },
+  {
+    "id": "vxweb.LoginScreen.ok",
+    "defaultMessage": "Ok",
+    "message": "OK"
+  },
+  {
+    "id": "vxweb.LoginScreen.passwordExpired",
+    "defaultMessage": "Password expired",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.passwordLabel",
+    "defaultMessage": "Password",
+    "message": "パスワード"
+  },
+  {
+    "id": "vxweb.LoginScreen.sessionExpired",
+    "defaultMessage": "Session Expired",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.usernameLabel",
+    "defaultMessage": "Username",
+    "message": "ユーザー名"
+  },
+  {
+    "id": "vxweb.LoginScreen.verifyPasswordError",
+    "defaultMessage": "Please verify your Username and your Password, then try again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.verifyUsernameError",
+    "defaultMessage": " ",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.byNameOrID",
+    "defaultMessage": "by Name or Number",
+    "message": "名前または番号を基準に"
+  },
+  {
+    "id": "vxweb.Sidebar.clearAll",
+    "defaultMessage": "Clear All",
+    "message": "すべてを消去"
+  },
+  {
+    "id": "vxweb.Sidebar.filter",
+    "defaultMessage": "Filter:",
+    "message": "フィルター:"
+  },
+  {
+    "id": "vxweb.Sidebar.ipAddress",
+    "defaultMessage": "IP ADDRESS",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.model",
+    "defaultMessage": "TYPE",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.moreOptions",
+    "defaultMessage": "More Options",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.name",
+    "defaultMessage": "NAME",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.noFilter",
+    "defaultMessage": "(no filter)",
+    "message": "(フィルターなし)"
+  },
+  {
+    "id": "vxweb.Sidebar.not",
+    "defaultMessage": "NOT",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.notOnScreen",
+    "defaultMessage": "NOT On Screen",
+    "message": "画面表示されていない"
+  },
+  {
+    "id": "vxweb.Sidebar.notOnline",
+    "defaultMessage": "NOT Online",
+    "message": "オンラインではありません"
+  },
+  {
+    "id": "vxweb.Sidebar.notRecording",
+    "defaultMessage": "NOT Recording",
+    "message": "録画中でない"
+  },
+  {
+    "id": "vxweb.Sidebar.of",
+    "defaultMessage": "of",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.off",
+    "defaultMessage": "Off",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.on",
+    "defaultMessage": "On",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.onScreen",
+    "defaultMessage": "On Screen",
+    "message": "画面上"
+  },
+  {
+    "id": "vxweb.Sidebar.online",
+    "defaultMessage": "Online",
+    "message": "オンライン"
+  },
+  {
+    "id": "vxweb.Sidebar.recording",
+    "defaultMessage": "Recording",
+    "message": "録画中"
+  },
+  {
+    "id": "vxweb.Sidebar.serial",
+    "defaultMessage": "SERIAL",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.showing",
+    "defaultMessage": "Showing",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.videoSources",
+    "defaultMessage": "Video Sources",
+    "message": "ビデオ ソース"
+  },
+  {
+    "id": "vxweb.Situations.admin_clipsRemoved",
+    "defaultMessage": "Clips Removed",
+    "message": "クリップが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupFailed",
+    "defaultMessage": "Core Db Backup Failed",
+    "message": "コア データベースのバックアップが失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupHalted",
+    "defaultMessage": "Core Db Backup Halted",
+    "message": "コア データベースのバックアップが中断されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupRemoved",
+    "defaultMessage": "Core Db Backup Removed",
+    "message": "コア データベースのバックアップが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupRestore",
+    "defaultMessage": "Core Db Backup Restore",
+    "message": "コア データベースのバックアップが復元されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupStarted",
+    "defaultMessage": "Core Db Backup Started",
+    "message": "コア データベースのバックアップが開始されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupSuccess",
+    "defaultMessage": "Core Db Backup Success",
+    "message": "コア データベースのバックアップが成功しました"
+  },
+  {
+    "id": "vxweb.Situations.admin_dataSourceModified",
+    "defaultMessage": "Data Source Modified",
+    "message": "データ ソースが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_dataStorageModified",
+    "defaultMessage": "Data Storage Modified",
+    "message": "データ ストレージが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceAdded",
+    "defaultMessage": "Device Added",
+    "message": "デバイスが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceAssigned",
+    "defaultMessage": "Device Assigned",
+    "message": "デバイスが割り当てられました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceCommissioned",
+    "defaultMessage": "Device Commissioned",
+    "message": "デバイスが作動中になりました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceDecommissioned",
+    "defaultMessage": "Device Decommissioned",
+    "message": "デバイスが非作動にされました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceModified",
+    "defaultMessage": "Device Modified",
+    "message": "デバイスが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceRebooted",
+    "defaultMessage": "Device Rebooted",
+    "message": "デバイスがリブートされました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceRemoved",
+    "defaultMessage": "Device Removed",
+    "message": "デバイスが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceReset",
+    "defaultMessage": "Device Reset",
+    "message": "デバイスがリセットされました"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceUnassigned",
+    "defaultMessage": "Device Unassigned",
+    "message": "デバイスが割り当て解除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingAdded",
+    "defaultMessage": "Drawing Added",
+    "message": "描画が追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageModified",
+    "defaultMessage": "Drawing Image Modified",
+    "message": "描画イメージが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageRemoved",
+    "defaultMessage": "Drawing Image Removed",
+    "message": "描画イメージが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageRetrieved",
+    "defaultMessage": "Drawing Image Retrieved",
+    "message": "描画イメージが取得されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerAdded",
+    "defaultMessage": "Drawing Marker Added",
+    "message": "描画マーカーが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerModified",
+    "defaultMessage": "Drawing Marker Modified",
+    "message": "描画マーカーが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerRemoved",
+    "defaultMessage": "Drawing Marker Removed",
+    "message": "描画マーカーが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingModified",
+    "defaultMessage": "Drawing Modified",
+    "message": "描画が修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingRemoved",
+    "defaultMessage": "Drawing Removed",
+    "message": "描画が削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingsModified",
+    "defaultMessage": "Drawings Modified",
+    "message": "描画が修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_exportPathModified",
+    "defaultMessage": "Export Path Modified",
+    "message": "エクスポート パスが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseAdded",
+    "defaultMessage": "License Added",
+    "message": "ライセンスが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseExpired",
+    "defaultMessage": "License Expired",
+    "message": "ライセンスの期限が切れました"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseFailure",
+    "defaultMessage": "License Failure",
+    "message": "ライセンスが失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.admin_logAdded",
+    "defaultMessage": "Log Added",
+    "message": "ログが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_logDownloaded",
+    "defaultMessage": "Log Downloaded",
+    "message": "ログがダウンロードされました"
+  },
+  {
+    "id": "vxweb.Situations.admin_logRemoved",
+    "defaultMessage": "Log Removed",
+    "message": "ログが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberAdded",
+    "defaultMessage": "Member Added",
+    "message": "メンバーが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberModified",
+    "defaultMessage": "Member Modified",
+    "message": "メンバーが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberRemoved",
+    "defaultMessage": "Member Removed",
+    "message": "メンバーが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorAdded",
+    "defaultMessage": "Monitor Added",
+    "message": "モニターが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorCellModified",
+    "defaultMessage": "Monitor Cell Modified",
+    "message": "モニター セルが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorModified",
+    "defaultMessage": "Monitor Modified",
+    "message": "モニターが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorRemoved",
+    "defaultMessage": "Monitor Removed",
+    "message": "モニターが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallAdded",
+    "defaultMessage": "Monitorwall Added",
+    "message": "モニターウォールが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallModified",
+    "defaultMessage": "Monitorwall Modified",
+    "message": "モニターウォールが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallRemoved",
+    "defaultMessage": "Monitorwall Removed",
+    "message": "モニターウォールが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_newExportKeys",
+    "defaultMessage": "New Export Keys",
+    "message": "新しいエクスポート キー"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationAdded",
+    "defaultMessage": "Notification Added",
+    "message": "通知が追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationAddedRole",
+    "defaultMessage": "Notification Added Role",
+    "message": "通知が追加されたロール"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationRemoved",
+    "defaultMessage": "Notification Removed",
+    "message": "通知が削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationRemovedRole",
+    "defaultMessage": "Notification Removed Role",
+    "message": "通知が削除されたロール"
+  },
+  {
+    "id": "vxweb.Situations.admin_passwordUpdateFailure",
+    "defaultMessage": "Password Update Failure",
+    "message": "パスワードが更新できませんでした"
+  },
+  {
+    "id": "vxweb.Situations.admin_passwordUpdateSuccess",
+    "defaultMessage": "Password Update Success",
+    "message": "パスワードが更新されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeAdded",
+    "defaultMessage": "Privilege Added",
+    "message": "権限が追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeModified",
+    "defaultMessage": "Privilege Modified",
+    "message": "権限が修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeRemoved",
+    "defaultMessage": "Privilege Removed",
+    "message": "権限が削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_ptzPresetAdded",
+    "defaultMessage": "Ptz Preset Added",
+    "message": "PTZ プリセットが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_ptzPresetRemoved",
+    "defaultMessage": "Ptz Preset Removed",
+    "message": "PTZ プリセットが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleAdded",
+    "defaultMessage": "Role Added",
+    "message": "ロールが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleModified",
+    "defaultMessage": "Role Modified",
+    "message": "ロールが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleRemoved",
+    "defaultMessage": "Role Removed",
+    "message": "ロールが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleAdded",
+    "defaultMessage": "Rule Added",
+    "message": "ルールが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleModified",
+    "defaultMessage": "Rule Modified",
+    "message": "ルールが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleRemoved",
+    "defaultMessage": "Rule Removed",
+    "message": "ルールが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleAdded",
+    "defaultMessage": "Schedule Added",
+    "message": "スケジュールが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleModified",
+    "defaultMessage": "Schedule Modified",
+    "message": "スケジュールが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleRemoved",
+    "defaultMessage": "Schedule Removed",
+    "message": "スケジュールが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationAdded",
+    "defaultMessage": "Situation Added",
+    "message": "状況が追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationModified",
+    "defaultMessage": "Situation Modified",
+    "message": "状況が修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationNotificationAdded",
+    "defaultMessage": "Situation Notification Added",
+    "message": "状況通知が追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationNotificationRemoved",
+    "defaultMessage": "Situation Notification Removed",
+    "message": "状況通知が削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationRemoved",
+    "defaultMessage": "Situation Removed",
+    "message": "状況が削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_sshDisabled",
+    "defaultMessage": "Ssh Disabled",
+    "message": "SSH 無効"
+  },
+  {
+    "id": "vxweb.Situations.admin_sshEnabled",
+    "defaultMessage": "Ssh Enabled",
+    "message": "SSH が有効化されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableAdded",
+    "defaultMessage": "Timetable Added",
+    "message": "タイムテーブルが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableModified",
+    "defaultMessage": "Timetable Modified",
+    "message": "タイムテーブルが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableRemoved",
+    "defaultMessage": "Timetable Removed",
+    "message": "タイムテーブルが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_userAdded",
+    "defaultMessage": "User Added",
+    "message": "ユーザーが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_userModified",
+    "defaultMessage": "User Modified",
+    "message": "ユーザーが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_userNewPassword",
+    "defaultMessage": "User New Password",
+    "message": "ユーザー新規パスワード"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRemoved",
+    "defaultMessage": "User Removed",
+    "message": "ユーザーが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRoleAdded",
+    "defaultMessage": "User Role Added",
+    "message": "ユーザー ロールが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRoleRemoved",
+    "defaultMessage": "User Role Removed",
+    "message": "ユーザー ロールが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRebuild",
+    "defaultMessage": "Vxs Db Rebuild",
+    "message": "VxStorage データベースが再構築されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRecover",
+    "defaultMessage": "Vxs Db Recover",
+    "message": "VxStorage データベースが回復されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRestore",
+    "defaultMessage": "Vxs Db Restore",
+    "message": "VxStorage データベースが復元されました"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsReconfigured",
+    "defaultMessage": "Vxs Reconfigured",
+    "message": "VxStorage が再構成されました"
+  },
+  {
+    "id": "vxweb.Situations.analytic_abandonedObject",
+    "defaultMessage": "Abandoned Object",
+    "message": "破棄されたオブジェクト"
+  },
+  {
+    "id": "vxweb.Situations.analytic_adaptiveMotion",
+    "defaultMessage": "Adaptive Motion",
+    "message": "適応可能なモーション"
+  },
+  {
+    "id": "vxweb.Situations.analytic_directionalMotion",
+    "defaultMessage": "Directional Motion",
+    "message": "方向性のあるモーション"
+  },
+  {
+    "id": "vxweb.Situations.analytic_loitering",
+    "defaultMessage": "Loitering",
+    "message": "ロイタリング"
+  },
+  {
+    "id": "vxweb.Situations.analytic_motion",
+    "defaultMessage": "Motion",
+    "message": "モーションが検出されました"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noAbandonedObject",
+    "defaultMessage": "No Abandoned Object",
+    "message": "破棄されたオブジェクトはありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noAdaptiveMotion",
+    "defaultMessage": "No Adaptive Motion",
+    "message": "適応可能なモーションがありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noDirectionalMotion",
+    "defaultMessage": "No Directional Motion",
+    "message": "方向性のあるモーションがありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noLoitering",
+    "defaultMessage": "No Loitering",
+    "message": "ロイタリングがありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noMotion",
+    "defaultMessage": "No Motion",
+    "message": "モーションが検出されませんでした"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noObjectCount",
+    "defaultMessage": "No Object Count",
+    "message": "オブジェクト カウントがありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noObjectRemoval",
+    "defaultMessage": "No Object Removal",
+    "message": "オブジェクトの削除がありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noSabotage",
+    "defaultMessage": "No Sabotage",
+    "message": "妨害なし"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noStoppedVehicle",
+    "defaultMessage": "No Stopped Vehicle",
+    "message": "停止された車両がありません"
+  },
+  {
+    "id": "vxweb.Situations.analytic_objectCount",
+    "defaultMessage": "Object Count",
+    "message": "オブジェクト カウント"
+  },
+  {
+    "id": "vxweb.Situations.analytic_objectRemoval",
+    "defaultMessage": "Object Removal",
+    "message": "オブジェクトの削除"
+  },
+  {
+    "id": "vxweb.Situations.analytic_sabotage",
+    "defaultMessage": "Sabotage",
+    "message": "妨害"
+  },
+  {
+    "id": "vxweb.Situations.analytic_stoppedVehicle",
+    "defaultMessage": "Stopped Vehicle",
+    "message": "車両の駐車"
+  },
+  {
+    "id": "vxweb.Situations.client_logoff",
+    "defaultMessage": "Logoff",
+    "message": "ログオフ"
+  },
+  {
+    "id": "vxweb.Situations.client_logon",
+    "defaultMessage": "Logon",
+    "message": "ログオン"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewAccepted",
+    "defaultMessage": "Saved View Accepted",
+    "message": "保存済みのビューが受け入れられました"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewReceived",
+    "defaultMessage": "Saved View Received",
+    "message": "保存済みのビューが受信されました"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewSent",
+    "defaultMessage": "Saved View Sent",
+    "message": "保存済みのビューが送信されました"
+  },
+  {
+    "id": "vxweb.Situations.client_snooze",
+    "defaultMessage": "Snooze",
+    "message": "スヌーズ"
+  },
+  {
+    "id": "vxweb.Situations.client_tabAdded",
+    "defaultMessage": "Tab Added",
+    "message": "タブが追加されました "
+  },
+  {
+    "id": "vxweb.Situations.client_tabModified",
+    "defaultMessage": "Tab Modified",
+    "message": "タブが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.client_tabRemoved",
+    "defaultMessage": "Tab Removed",
+    "message": "タブが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceAdded",
+    "defaultMessage": "Workspace Added",
+    "message": "ワークスペースが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceModified",
+    "defaultMessage": "Workspace Modified",
+    "message": "ワークスペースが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceRemoved",
+    "defaultMessage": "Workspace Removed",
+    "message": "ワークスペースが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.hardware_cpuLoad",
+    "defaultMessage": "Cpu Load",
+    "message": "CPU の負荷"
+  },
+  {
+    "id": "vxweb.Situations.hardware_diskFailure",
+    "defaultMessage": "Disk Failure",
+    "message": "ディスクの障害"
+  },
+  {
+    "id": "vxweb.Situations.hardware_fanFailure",
+    "defaultMessage": "Fan Failure",
+    "message": "ファンの障害"
+  },
+  {
+    "id": "vxweb.Situations.hardware_inputLoss",
+    "defaultMessage": "Input Loss",
+    "message": "入力フィードが失われました"
+  },
+  {
+    "id": "vxweb.Situations.hardware_inputRestored",
+    "defaultMessage": "Input Restored",
+    "message": "入力フィードが復元されました"
+  },
+  {
+    "id": "vxweb.Situations.hardware_linkSpeed",
+    "defaultMessage": "Link Speed",
+    "message": "リンク速度が変更されました "
+  },
+  {
+    "id": "vxweb.Situations.hardware_memoryLoad",
+    "defaultMessage": "Memory Load",
+    "message": "メモリの負荷"
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeFull",
+    "defaultMessage": "Network Volume Full",
+    "message": "ネットワーク ボリュームが一杯です"
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeOffline",
+    "defaultMessage": "Network Volume Offline",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeOnline",
+    "defaultMessage": "Network Volume Online",
+    "message": "ネットワーク ボリュームがオンラインです"
+  },
+  {
+    "id": "vxweb.Situations.hardware_packetLoss",
+    "defaultMessage": "Packet Loss",
+    "message": "パケット ロス"
+  },
+  {
+    "id": "vxweb.Situations.hardware_psFailure",
+    "defaultMessage": "Ps Failure",
+    "message": "電源の障害"
+  },
+  {
+    "id": "vxweb.Situations.hardware_temperature",
+    "defaultMessage": "Temperature",
+    "message": "温度の問題"
+  },
+  {
+    "id": "vxweb.Situations.hardware_upsLow",
+    "defaultMessage": "Ups Low",
+    "message": "UPS - 低"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeFull",
+    "defaultMessage": "Volume Full",
+    "message": "ボリューム最大"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeOffline",
+    "defaultMessage": "Volume Offline",
+    "message": "オフラインのボリューム"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeOnline",
+    "defaultMessage": "Volume Online",
+    "message": "オンラインのボリューム"
+  },
+  {
+    "id": "vxweb.Situations.system_alarmActive",
+    "defaultMessage": "Alarm Active",
+    "message": "アクティブなアラーム"
+  },
+  {
+    "id": "vxweb.Situations.system_alarmInactive",
+    "defaultMessage": "Alarm Inactive",
+    "message": "非アクティブなアラーム"
+  },
+  {
+    "id": "vxweb.Situations.system_authenticationFailure",
+    "defaultMessage": "Authentication Failure",
+    "message": "認証が失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.system_authorizationFailure",
+    "defaultMessage": "Authorization Failure",
+    "message": "承認が失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkAdded",
+    "defaultMessage": "Bookmark Added",
+    "message": "ブックマークが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockDisabled",
+    "defaultMessage": "Bookmark Lock Disabled",
+    "message": "ブックマーク ロックが無効化されました"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockEnabled",
+    "defaultMessage": "Bookmark Lock Enabled",
+    "message": "ブックマーク ロックが有効化されました"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockModified",
+    "defaultMessage": "Bookmark Lock Modified",
+    "message": "ブックマーク ロックが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkModified",
+    "defaultMessage": "Bookmark Modified",
+    "message": "ブックマークが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkRemoved",
+    "defaultMessage": "Bookmark Removed",
+    "message": "ブックマークが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.system_clientPush",
+    "defaultMessage": "Client Push",
+    "message": "クライアント プッシュ"
+  },
+  {
+    "id": "vxweb.Situations.system_clientPushAck",
+    "defaultMessage": "Client Push Ack",
+    "message": "クライアント プッシュ受取確認"
+  },
+  {
+    "id": "vxweb.Situations.system_clipAdded",
+    "defaultMessage": "Clip Added",
+    "message": "クリップが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.system_clipFailed",
+    "defaultMessage": "Clip Failed",
+    "message": "クリップが失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.system_dataSourceOffline",
+    "defaultMessage": "Data Source Offline",
+    "message": "データ ソースがオフラインです"
+  },
+  {
+    "id": "vxweb.Situations.system_dataSourceOnline",
+    "defaultMessage": "Data Source Online",
+    "message": "データ ソースがオンラインです"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceOffline",
+    "defaultMessage": "Device Offline",
+    "message": "オフラインのデバイス"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceOnline",
+    "defaultMessage": "Device Online",
+    "message": "オンラインのデバイス"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceStatusInitialized",
+    "defaultMessage": "Device Status Initialized",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Situations.system_deviceStatusUnauthenticated",
+    "defaultMessage": "Device Status Unauthenticated",
+    "message": "デバイスの状態が未認証です"
+  },
+  {
+    "id": "vxweb.Situations.system_exportDeleted",
+    "defaultMessage": "Export Deleted",
+    "message": "エクスポートが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportDownloaded",
+    "defaultMessage": "Export Downloaded",
+    "message": "エクスポートがダウンロードされました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportFailure",
+    "defaultMessage": "Export Failure",
+    "message": "エクスポートが失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportModified",
+    "defaultMessage": "Export Modified",
+    "message": "エクスポートが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportRestored",
+    "defaultMessage": "Export Restored",
+    "message": "エクスポートが復元されました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportStarted",
+    "defaultMessage": "Export Started",
+    "message": "エクスポートが開始しました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportSuccess",
+    "defaultMessage": "Export Success",
+    "message": "エクスポートが実行されました"
+  },
+  {
+    "id": "vxweb.Situations.system_exportTrashed",
+    "defaultMessage": "Export Trashed",
+    "message": "エクスポートが破棄されました"
+  },
+  {
+    "id": "vxweb.Situations.system_failoverCompleted",
+    "defaultMessage": "Failover Completed",
+    "message": "フェイルオーバーが完了しました"
+  },
+  {
+    "id": "vxweb.Situations.system_failoverStarted",
+    "defaultMessage": "Failover Started",
+    "message": "フェイルオーバーが開始しました"
+  },
+  {
+    "id": "vxweb.Situations.system_fault",
+    "defaultMessage": "Fault",
+    "message": "障害 (ハードウェア)"
+  },
+  {
+    "id": "vxweb.Situations.system_manualRecordingAdded",
+    "defaultMessage": "Manual Recording Added",
+    "message": "手動録画が追加されました"
+  },
+  {
+    "id": "vxweb.Situations.system_manualRecordingRemoved",
+    "defaultMessage": "Manual Recording Removed",
+    "message": "手動録画が削除されました"
+  },
+  {
+    "id": "vxweb.Situations.system_memberOffline",
+    "defaultMessage": "Member Offline",
+    "message": "オフラインのメンバー"
+  },
+  {
+    "id": "vxweb.Situations.system_memberOnline",
+    "defaultMessage": "Member Online",
+    "message": "オンラインのメンバー"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzLock",
+    "defaultMessage": "Ptz Lock",
+    "message": "PTZ ロック"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzPatternTriggered",
+    "defaultMessage": "Ptz Pattern Triggered",
+    "message": "PTZ パターンがトリガーされました"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzPresetTriggered",
+    "defaultMessage": "Ptz Preset Triggered",
+    "message": "PTZ プリセットがトリガーされました"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzUnlock",
+    "defaultMessage": "Ptz Unlock",
+    "message": "PTZ のロック解除"
+  },
+  {
+    "id": "vxweb.Situations.system_qlogDownloaded",
+    "defaultMessage": "Qlog Downloaded",
+    "message": "クイック ログがダウンロードされました"
+  },
+  {
+    "id": "vxweb.Situations.system_qreportDownloaded",
+    "defaultMessage": "Qreport Downloaded",
+    "message": "レポートがダウンロードされました"
+  },
+  {
+    "id": "vxweb.Situations.system_recordingFailureBandwidth",
+    "defaultMessage": "Recording Failure Bandwidth",
+    "message": "録画エラー帯域幅"
+  },
+  {
+    "id": "vxweb.Situations.system_relayActive",
+    "defaultMessage": "Relay Active",
+    "message": "リレーがアクティブです"
+  },
+  {
+    "id": "vxweb.Situations.system_relayInactive",
+    "defaultMessage": "Relay Inactive",
+    "message": "リレーが非アクティブです"
+  },
+  {
+    "id": "vxweb.Situations.system_retentionLow",
+    "defaultMessage": "Retention Low",
+    "message": "保持 - 低"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptFailure",
+    "defaultMessage": "Script Failure",
+    "message": "スクリプトに失敗しました"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptStarted",
+    "defaultMessage": "Script Started",
+    "message": "スクリプトが開始しました"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptSuccess",
+    "defaultMessage": "Script Success",
+    "message": "スクリプトが正常に実行されました"
+  },
+  {
+    "id": "vxweb.Situations.system_streamLoss",
+    "defaultMessage": "Stream Loss",
+    "message": "ストリームの損失"
+  },
+  {
+    "id": "vxweb.Situations.system_streamRestored",
+    "defaultMessage": "Stream Restored",
+    "message": "ストリームが復元されました"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewDenied",
+    "defaultMessage": "Stream View Denied",
+    "message": "ストリーム ビューが拒否されました"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewStarted",
+    "defaultMessage": "Stream View Started",
+    "message": "ストリーム ビューが開始されました"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewStopped",
+    "defaultMessage": "Stream View Stopped",
+    "message": "ストリーム ビューが停止しました"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewTimeout",
+    "defaultMessage": "Stream View Timeout",
+    "message": "ストリーム ビューがタイムアウトになりました"
+  },
+  {
+    "id": "vxweb.Situations.system_tagAdded",
+    "defaultMessage": "Tag Added",
+    "message": "タグが追加されました"
+  },
+  {
+    "id": "vxweb.Situations.system_tagLinked",
+    "defaultMessage": "Tag Linked",
+    "message": "タグがリンクされました"
+  },
+  {
+    "id": "vxweb.Situations.system_tagMerged",
+    "defaultMessage": "Tag Merged",
+    "message": "タグが結合されました"
+  },
+  {
+    "id": "vxweb.Situations.system_tagModified",
+    "defaultMessage": "Tag Modified",
+    "message": "タグが修正されました"
+  },
+  {
+    "id": "vxweb.Situations.system_tagRemoved",
+    "defaultMessage": "Tag Removed",
+    "message": "タグが削除されました"
+  },
+  {
+    "id": "vxweb.Situations.system_tagUnlinked",
+    "defaultMessage": "Tag Unlinked",
+    "message": "タグのリンクが解除されました"
+  },
+  {
+    "id": "vxweb.VideoCell.errorCannotConnect",
+    "defaultMessage": "Cannot connect to video source",
+    "message": "ビデオ ソースに接続できません"
+  },
+  {
+    "id": "vxweb.VideoCell.errorNoRecordingExists",
+    "defaultMessage": "No recording exists at this point",
+    "message": "このポイントに録画はありません"
+  },
+  {
+    "id": "vxweb.VideoCell.live",
+    "defaultMessage": "Live",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.VideoCell.ok",
+    "defaultMessage": "OK",
+    "message": "OK"
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedGeneralError",
+    "defaultMessage": "The PTZ command failed. Please try again.",
+    "message": "PTZ コマンドが失敗しました。もう一度実行してください。"
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedHigherPriortyUserError",
+    "defaultMessage": "PTZ on this camera has been locked by a higher priority user.",
+    "message": "このカメラの PTZ は優先順位の高いユーザーによってロックされています。"
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedOverrideError",
+    "defaultMessage": "PTZ on this camera has been locked by another user. Click the lock icon to override their lock.",
+    "message": "このカメラの PTZ は別のユーザーによってロックされています。ロックを無効にするにはロック アイコンをクリックします。"
+  },
+  {
+    "id": "vxweb.VideoTab.logoutLink",
+    "defaultMessage": "Log Out",
+    "message": "ログアウト"
+  },
+  {
+    "id": "vxweb.VideoTab.settingsLink",
+    "defaultMessage": "Configure Server",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.VideoTab.tabName",
+    "defaultMessage": "Tab {tabNumber} ({layout})",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  }
+]

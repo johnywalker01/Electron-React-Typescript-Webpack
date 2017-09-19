@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "vxweb.ChangePasswordDialog.cancelButton",
+    "defaultMessage": "Cancel",
+    "message": "İptal"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.changePassword",
+    "defaultMessage": "Change Password",
+    "message": "Parola Değiştir"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.currentPassword",
+    "defaultMessage": "Current Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.insufficientPrivileges",
+    "defaultMessage": "Your account has insufficent privileges.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.newPassword",
+    "defaultMessage": "New Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordInvalid",
+    "defaultMessage": "Invalid password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreDigits",
+    "defaultMessage": "New password needs more digits.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreLower",
+    "defaultMessage": "New password needs more lower case characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreSpecial",
+    "defaultMessage": "New password needs more special characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordReqMoreUpper",
+    "defaultMessage": "New password needs more upper case characters.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordTooShort",
+    "defaultMessage": "New password was too short.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordTooSimilar",
+    "defaultMessage": "New password was too similar to a previous password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.passwordsDoNotMatch",
+    "defaultMessage": "Passwords do not match.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.retypePassword",
+    "defaultMessage": "Retype New Password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.saveButton",
+    "defaultMessage": "Save",
+    "message": "Kaydet"
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.serverDoesNotSupportChangingPassword",
+    "defaultMessage": "The server does not support changing your password",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.unknownError",
+    "defaultMessage": "Sorry, an unknown error occurred while changing your password.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.ChangePasswordDialog.verifyCurrentPassword",
+    "defaultMessage": "Please verify your Password, then try again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.changePassword",
+    "defaultMessage": "Change Password",
+    "message": "Parola Değiştir"
+  },
+  {
+    "id": "vxweb.LoginScreen.loginAgain",
+    "defaultMessage": "Your session has expired.  Please login again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.loginButton",
+    "defaultMessage": "Log In",
+    "message": "Oturum Aç"
+  },
+  {
+    "id": "vxweb.LoginScreen.loginHeadingLabel",
+    "defaultMessage": "Login",
+    "message": "Oturum aç"
+  },
+  {
+    "id": "vxweb.LoginScreen.ok",
+    "defaultMessage": "Ok",
+    "message": "Tamam"
+  },
+  {
+    "id": "vxweb.LoginScreen.passwordExpired",
+    "defaultMessage": "Password expired",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.passwordLabel",
+    "defaultMessage": "Password",
+    "message": "Parola"
+  },
+  {
+    "id": "vxweb.LoginScreen.sessionExpired",
+    "defaultMessage": "Session Expired",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.usernameLabel",
+    "defaultMessage": "Username",
+    "message": "Kullanıcı adı"
+  },
+  {
+    "id": "vxweb.LoginScreen.verifyPasswordError",
+    "defaultMessage": "Please verify your Username and your Password, then try again.",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.LoginScreen.verifyUsernameError",
+    "defaultMessage": " ",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.byNameOrID",
+    "defaultMessage": "by Name or Number",
+    "message": "Ada veya Numaraya göre"
+  },
+  {
+    "id": "vxweb.Sidebar.clearAll",
+    "defaultMessage": "Clear All",
+    "message": "Tümünü Temizle"
+  },
+  {
+    "id": "vxweb.Sidebar.filter",
+    "defaultMessage": "Filter:",
+    "message": "Filtre:"
+  },
+  {
+    "id": "vxweb.Sidebar.ipAddress",
+    "defaultMessage": "IP ADDRESS",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.model",
+    "defaultMessage": "TYPE",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.moreOptions",
+    "defaultMessage": "More Options",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.name",
+    "defaultMessage": "NAME",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.noFilter",
+    "defaultMessage": "(no filter)",
+    "message": "(filtre yok)"
+  },
+  {
+    "id": "vxweb.Sidebar.not",
+    "defaultMessage": "NOT",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.notOnScreen",
+    "defaultMessage": "NOT On Screen",
+    "message": "Ekranda DEĞİL"
+  },
+  {
+    "id": "vxweb.Sidebar.notOnline",
+    "defaultMessage": "NOT Online",
+    "message": "Çevrimiçi DEĞİL"
+  },
+  {
+    "id": "vxweb.Sidebar.notRecording",
+    "defaultMessage": "NOT Recording",
+    "message": "KAYDETMİYOR"
+  },
+  {
+    "id": "vxweb.Sidebar.of",
+    "defaultMessage": "of",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.off",
+    "defaultMessage": "Off",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.on",
+    "defaultMessage": "On",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.onScreen",
+    "defaultMessage": "On Screen",
+    "message": "Ekranda"
+  },
+  {
+    "id": "vxweb.Sidebar.online",
+    "defaultMessage": "Online",
+    "message": "Çevrimiçi"
+  },
+  {
+    "id": "vxweb.Sidebar.recording",
+    "defaultMessage": "Recording",
+    "message": "Kaydediyor"
+  },
+  {
+    "id": "vxweb.Sidebar.serial",
+    "defaultMessage": "SERIAL",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.showing",
+    "defaultMessage": "Showing",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Sidebar.videoSources",
+    "defaultMessage": "Video Sources",
+    "message": "Video Kaynakları"
+  },
+  {
+    "id": "vxweb.Situations.admin_clipsRemoved",
+    "defaultMessage": "Clips Removed",
+    "message": "Klipler Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupFailed",
+    "defaultMessage": "Core Db Backup Failed",
+    "message": "Çekirdek Veritabanı Yedeklemesi Başarısız"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupHalted",
+    "defaultMessage": "Core Db Backup Halted",
+    "message": "Çekirdek Veritabanı Yedeklemesi Durduruldu"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupRemoved",
+    "defaultMessage": "Core Db Backup Removed",
+    "message": "Çekirdek Veritabanı Yedeklemesi Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupRestore",
+    "defaultMessage": "Core Db Backup Restore",
+    "message": "Çekirdek Veritabanı Yedeklemesi Yeniden Yükleme"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupStarted",
+    "defaultMessage": "Core Db Backup Started",
+    "message": "Çekirdek Veritabanı Yedeklemesi Başlatıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_coreDbBackupSuccess",
+    "defaultMessage": "Core Db Backup Success",
+    "message": "Çekirdek Veritabanı Yedeklemesi Başarılı"
+  },
+  {
+    "id": "vxweb.Situations.admin_dataSourceModified",
+    "defaultMessage": "Data Source Modified",
+    "message": "Veri Kaynağı Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_dataStorageModified",
+    "defaultMessage": "Data Storage Modified",
+    "message": "Veri Depolama Alanı Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceAdded",
+    "defaultMessage": "Device Added",
+    "message": "Aygıt Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceAssigned",
+    "defaultMessage": "Device Assigned",
+    "message": "Aygıt Atandı"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceCommissioned",
+    "defaultMessage": "Device Commissioned",
+    "message": "Aygıt Kullanıma Alındı"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceDecommissioned",
+    "defaultMessage": "Device Decommissioned",
+    "message": "Aygıt Kullanımdan Çıkarıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceModified",
+    "defaultMessage": "Device Modified",
+    "message": "Aygıt Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceRebooted",
+    "defaultMessage": "Device Rebooted",
+    "message": "Aygıt Yeniden Başlatıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceRemoved",
+    "defaultMessage": "Device Removed",
+    "message": "Aygıt Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceReset",
+    "defaultMessage": "Device Reset",
+    "message": "Aygıt Sıfırlandı"
+  },
+  {
+    "id": "vxweb.Situations.admin_deviceUnassigned",
+    "defaultMessage": "Device Unassigned",
+    "message": "Aygıt Ataması Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingAdded",
+    "defaultMessage": "Drawing Added",
+    "message": "Çizim Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageModified",
+    "defaultMessage": "Drawing Image Modified",
+    "message": "Çizim Görüntüsü Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageRemoved",
+    "defaultMessage": "Drawing Image Removed",
+    "message": "Çizim Görüntüsü Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingImageRetrieved",
+    "defaultMessage": "Drawing Image Retrieved",
+    "message": "Çizim Resmi Alındı"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerAdded",
+    "defaultMessage": "Drawing Marker Added",
+    "message": "Çizim İşareti Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerModified",
+    "defaultMessage": "Drawing Marker Modified",
+    "message": "Çizim İşareti Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingMarkerRemoved",
+    "defaultMessage": "Drawing Marker Removed",
+    "message": "Çizim İşareti Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingModified",
+    "defaultMessage": "Drawing Modified",
+    "message": "Çizim Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingRemoved",
+    "defaultMessage": "Drawing Removed",
+    "message": "Çizim Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_drawingsModified",
+    "defaultMessage": "Drawings Modified",
+    "message": "Çizimler Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_exportPathModified",
+    "defaultMessage": "Export Path Modified",
+    "message": "Gönderme Yolu Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseAdded",
+    "defaultMessage": "License Added",
+    "message": "Lisans Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseExpired",
+    "defaultMessage": "License Expired",
+    "message": "Lisansın Süresi Doldu"
+  },
+  {
+    "id": "vxweb.Situations.admin_licenseFailure",
+    "defaultMessage": "License Failure",
+    "message": "Lisans Başarısız Oldu"
+  },
+  {
+    "id": "vxweb.Situations.admin_logAdded",
+    "defaultMessage": "Log Added",
+    "message": "Günlük Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_logDownloaded",
+    "defaultMessage": "Log Downloaded",
+    "message": "Günlük İndirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_logRemoved",
+    "defaultMessage": "Log Removed",
+    "message": "Günlük Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberAdded",
+    "defaultMessage": "Member Added",
+    "message": "Üye Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberModified",
+    "defaultMessage": "Member Modified",
+    "message": "Üye Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_memberRemoved",
+    "defaultMessage": "Member Removed",
+    "message": "Üye Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorAdded",
+    "defaultMessage": "Monitor Added",
+    "message": "Monitör Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorCellModified",
+    "defaultMessage": "Monitor Cell Modified",
+    "message": "Monitör Hücresi Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorModified",
+    "defaultMessage": "Monitor Modified",
+    "message": "Monitör Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorRemoved",
+    "defaultMessage": "Monitor Removed",
+    "message": "Monitör Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallAdded",
+    "defaultMessage": "Monitorwall Added",
+    "message": "Monitör Duvarı Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallModified",
+    "defaultMessage": "Monitorwall Modified",
+    "message": "Monitör Duvarı Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_monitorwallRemoved",
+    "defaultMessage": "Monitorwall Removed",
+    "message": "Monitör Duvarı Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_newExportKeys",
+    "defaultMessage": "New Export Keys",
+    "message": "Yeni Gönderme Anahtarları"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationAdded",
+    "defaultMessage": "Notification Added",
+    "message": "Bildirim Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationAddedRole",
+    "defaultMessage": "Notification Added Role",
+    "message": "Bildirim: Rol Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationRemoved",
+    "defaultMessage": "Notification Removed",
+    "message": "Bildirim Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_notificationRemovedRole",
+    "defaultMessage": "Notification Removed Role",
+    "message": "Bildirim: Rol Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_passwordUpdateFailure",
+    "defaultMessage": "Password Update Failure",
+    "message": "Parola Güncelleme Başarısız"
+  },
+  {
+    "id": "vxweb.Situations.admin_passwordUpdateSuccess",
+    "defaultMessage": "Password Update Success",
+    "message": "Parola Güncelleme Başarılı"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeAdded",
+    "defaultMessage": "Privilege Added",
+    "message": "Ayrıcalık Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeModified",
+    "defaultMessage": "Privilege Modified",
+    "message": "Ayrıcalık Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_privilegeRemoved",
+    "defaultMessage": "Privilege Removed",
+    "message": "Ayrıcalık Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_ptzPresetAdded",
+    "defaultMessage": "Ptz Preset Added",
+    "message": "Ptz Ön Ayarı Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_ptzPresetRemoved",
+    "defaultMessage": "Ptz Preset Removed",
+    "message": "Ptz Ön Ayarı Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleAdded",
+    "defaultMessage": "Role Added",
+    "message": "Rol Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleModified",
+    "defaultMessage": "Role Modified",
+    "message": "Rol Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_roleRemoved",
+    "defaultMessage": "Role Removed",
+    "message": "Rol Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleAdded",
+    "defaultMessage": "Rule Added",
+    "message": "Kural Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleModified",
+    "defaultMessage": "Rule Modified",
+    "message": "Kural Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_ruleRemoved",
+    "defaultMessage": "Rule Removed",
+    "message": "Kural Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleAdded",
+    "defaultMessage": "Schedule Added",
+    "message": "Program Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleModified",
+    "defaultMessage": "Schedule Modified",
+    "message": "Program Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_scheduleRemoved",
+    "defaultMessage": "Schedule Removed",
+    "message": "Program Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationAdded",
+    "defaultMessage": "Situation Added",
+    "message": "Durum Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationModified",
+    "defaultMessage": "Situation Modified",
+    "message": "Durum Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationNotificationAdded",
+    "defaultMessage": "Situation Notification Added",
+    "message": "Durum Bildirimi Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationNotificationRemoved",
+    "defaultMessage": "Situation Notification Removed",
+    "message": "Durum Bildirimi Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_situationRemoved",
+    "defaultMessage": "Situation Removed",
+    "message": "Durum Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_sshDisabled",
+    "defaultMessage": "Ssh Disabled",
+    "message": "SSH Devre Dışı Bırakıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_sshEnabled",
+    "defaultMessage": "Ssh Enabled",
+    "message": "SSH Etkinleştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableAdded",
+    "defaultMessage": "Timetable Added",
+    "message": "Zaman Çizelgesi Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableModified",
+    "defaultMessage": "Timetable Modified",
+    "message": "Zaman Çizelgesi Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_timetableRemoved",
+    "defaultMessage": "Timetable Removed",
+    "message": "Zaman Çizelgesi Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_userAdded",
+    "defaultMessage": "User Added",
+    "message": "Kullanıcı Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_userModified",
+    "defaultMessage": "User Modified",
+    "message": "Kullanıcı Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.admin_userNewPassword",
+    "defaultMessage": "User New Password",
+    "message": "Kullanıcı Yeni Parolası"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRemoved",
+    "defaultMessage": "User Removed",
+    "message": "Kullanıcı Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRoleAdded",
+    "defaultMessage": "User Role Added",
+    "message": "Kullanıcı Rolü Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.admin_userRoleRemoved",
+    "defaultMessage": "User Role Removed",
+    "message": "Kullanıcı Rolü Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRebuild",
+    "defaultMessage": "Vxs Db Rebuild",
+    "message": "VxStorage Veritabanı Yeniden Oluşturuldu"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRecover",
+    "defaultMessage": "Vxs Db Recover",
+    "message": "VxStorage Veritabanı Kurtarıldı"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsDbRestore",
+    "defaultMessage": "Vxs Db Restore",
+    "message": "VxStorage Veritabanı Yeniden Yükle"
+  },
+  {
+    "id": "vxweb.Situations.admin_vxsReconfigured",
+    "defaultMessage": "Vxs Reconfigured",
+    "message": "VxStorage Veritabanı Yeniden Oluşturuldu"
+  },
+  {
+    "id": "vxweb.Situations.analytic_abandonedObject",
+    "defaultMessage": "Abandoned Object",
+    "message": "Bırakılan Nesne"
+  },
+  {
+    "id": "vxweb.Situations.analytic_adaptiveMotion",
+    "defaultMessage": "Adaptive Motion",
+    "message": "Uyarlanabilir Hareket"
+  },
+  {
+    "id": "vxweb.Situations.analytic_directionalMotion",
+    "defaultMessage": "Directional Motion",
+    "message": "Yönsel Hareket"
+  },
+  {
+    "id": "vxweb.Situations.analytic_loitering",
+    "defaultMessage": "Loitering",
+    "message": "Gezinme"
+  },
+  {
+    "id": "vxweb.Situations.analytic_motion",
+    "defaultMessage": "Motion",
+    "message": "Hareket Algılandı"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noAbandonedObject",
+    "defaultMessage": "No Abandoned Object",
+    "message": "Bırakılan Nesne Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noAdaptiveMotion",
+    "defaultMessage": "No Adaptive Motion",
+    "message": "Uyarlanabilir Hareket Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noDirectionalMotion",
+    "defaultMessage": "No Directional Motion",
+    "message": "Yönsel Hareket Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noLoitering",
+    "defaultMessage": "No Loitering",
+    "message": "Gezinme Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noMotion",
+    "defaultMessage": "No Motion",
+    "message": "Hiçbir Hareket Algılanmadı"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noObjectCount",
+    "defaultMessage": "No Object Count",
+    "message": "Nesne Sayısı Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noObjectRemoval",
+    "defaultMessage": "No Object Removal",
+    "message": "Nesne Kaldırma Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noSabotage",
+    "defaultMessage": "No Sabotage",
+    "message": "Sabotaj Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_noStoppedVehicle",
+    "defaultMessage": "No Stopped Vehicle",
+    "message": "Durdurulan Araç Yok"
+  },
+  {
+    "id": "vxweb.Situations.analytic_objectCount",
+    "defaultMessage": "Object Count",
+    "message": "Nesne Sayısı"
+  },
+  {
+    "id": "vxweb.Situations.analytic_objectRemoval",
+    "defaultMessage": "Object Removal",
+    "message": "Nesne Kaldırma"
+  },
+  {
+    "id": "vxweb.Situations.analytic_sabotage",
+    "defaultMessage": "Sabotage",
+    "message": "Sabotaj"
+  },
+  {
+    "id": "vxweb.Situations.analytic_stoppedVehicle",
+    "defaultMessage": "Stopped Vehicle",
+    "message": "Durdurulan Araç"
+  },
+  {
+    "id": "vxweb.Situations.client_logoff",
+    "defaultMessage": "Logoff",
+    "message": "Oturum Kapatma"
+  },
+  {
+    "id": "vxweb.Situations.client_logon",
+    "defaultMessage": "Logon",
+    "message": "Oturum Açma"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewAccepted",
+    "defaultMessage": "Saved View Accepted",
+    "message": "Kaydedilen Görünüm Kabul Edildi"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewReceived",
+    "defaultMessage": "Saved View Received",
+    "message": "Kaydedilen Görünüm Alındı"
+  },
+  {
+    "id": "vxweb.Situations.client_savedViewSent",
+    "defaultMessage": "Saved View Sent",
+    "message": "Kaydedilen Görünüm Gönderildi"
+  },
+  {
+    "id": "vxweb.Situations.client_snooze",
+    "defaultMessage": "Snooze",
+    "message": "Uyku"
+  },
+  {
+    "id": "vxweb.Situations.client_tabAdded",
+    "defaultMessage": "Tab Added",
+    "message": "Sekme Eklendi "
+  },
+  {
+    "id": "vxweb.Situations.client_tabModified",
+    "defaultMessage": "Tab Modified",
+    "message": "Sekme Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.client_tabRemoved",
+    "defaultMessage": "Tab Removed",
+    "message": "Sekme Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceAdded",
+    "defaultMessage": "Workspace Added",
+    "message": "Çalışma Alanı Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceModified",
+    "defaultMessage": "Workspace Modified",
+    "message": "Çalışma Alanı Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.client_workspaceRemoved",
+    "defaultMessage": "Workspace Removed",
+    "message": "Çalışma Alanı Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.hardware_cpuLoad",
+    "defaultMessage": "Cpu Load",
+    "message": "CPU Yükü"
+  },
+  {
+    "id": "vxweb.Situations.hardware_diskFailure",
+    "defaultMessage": "Disk Failure",
+    "message": "Disk Hatası"
+  },
+  {
+    "id": "vxweb.Situations.hardware_fanFailure",
+    "defaultMessage": "Fan Failure",
+    "message": "Fan Arızası"
+  },
+  {
+    "id": "vxweb.Situations.hardware_inputLoss",
+    "defaultMessage": "Input Loss",
+    "message": "Giriş Akışı Kaybedildi"
+  },
+  {
+    "id": "vxweb.Situations.hardware_inputRestored",
+    "defaultMessage": "Input Restored",
+    "message": "Giriş Akışı Geri Yüklenemedi"
+  },
+  {
+    "id": "vxweb.Situations.hardware_linkSpeed",
+    "defaultMessage": "Link Speed",
+    "message": "Bağlantı Hızı Değişti"
+  },
+  {
+    "id": "vxweb.Situations.hardware_memoryLoad",
+    "defaultMessage": "Memory Load",
+    "message": "Bellek Yükü"
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeFull",
+    "defaultMessage": "Network Volume Full",
+    "message": "Ağ Birimi Dolu"
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeOffline",
+    "defaultMessage": "Network Volume Offline",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Situations.hardware_networkVolumeOnline",
+    "defaultMessage": "Network Volume Online",
+    "message": "Ağ Birimi Çevrimiçi"
+  },
+  {
+    "id": "vxweb.Situations.hardware_packetLoss",
+    "defaultMessage": "Packet Loss",
+    "message": "Paket Kaybı"
+  },
+  {
+    "id": "vxweb.Situations.hardware_psFailure",
+    "defaultMessage": "Ps Failure",
+    "message": "Güç Kaynağı Arızası"
+  },
+  {
+    "id": "vxweb.Situations.hardware_temperature",
+    "defaultMessage": "Temperature",
+    "message": "Sıcaklık Sorunu"
+  },
+  {
+    "id": "vxweb.Situations.hardware_upsLow",
+    "defaultMessage": "Ups Low",
+    "message": "UPS Düşük"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeFull",
+    "defaultMessage": "Volume Full",
+    "message": "Birim Dolu"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeOffline",
+    "defaultMessage": "Volume Offline",
+    "message": "Birim Çevrimdışı"
+  },
+  {
+    "id": "vxweb.Situations.hardware_volumeOnline",
+    "defaultMessage": "Volume Online",
+    "message": "Birim Çevrimiçi"
+  },
+  {
+    "id": "vxweb.Situations.system_alarmActive",
+    "defaultMessage": "Alarm Active",
+    "message": "Alarm Etkin"
+  },
+  {
+    "id": "vxweb.Situations.system_alarmInactive",
+    "defaultMessage": "Alarm Inactive",
+    "message": "Alarm Etkin Değil"
+  },
+  {
+    "id": "vxweb.Situations.system_authenticationFailure",
+    "defaultMessage": "Authentication Failure",
+    "message": "Kimlik Denetimi Başarısız"
+  },
+  {
+    "id": "vxweb.Situations.system_authorizationFailure",
+    "defaultMessage": "Authorization Failure",
+    "message": "Yetkilendirme Başarısız"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkAdded",
+    "defaultMessage": "Bookmark Added",
+    "message": "Yer İmi Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockDisabled",
+    "defaultMessage": "Bookmark Lock Disabled",
+    "message": "Yer İmi Kilidi Devre Dışı"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockEnabled",
+    "defaultMessage": "Bookmark Lock Enabled",
+    "message": "Yer İmi Kilidi Etkinleştir"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkLockModified",
+    "defaultMessage": "Bookmark Lock Modified",
+    "message": "Yer İmi Kilidi Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkModified",
+    "defaultMessage": "Bookmark Modified",
+    "message": "Yer İmi Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_bookmarkRemoved",
+    "defaultMessage": "Bookmark Removed",
+    "message": "Yer İmi Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.system_clientPush",
+    "defaultMessage": "Client Push",
+    "message": "İstemci Gönderimi"
+  },
+  {
+    "id": "vxweb.Situations.system_clientPushAck",
+    "defaultMessage": "Client Push Ack",
+    "message": "İstemci Gönderimi Onaylandı"
+  },
+  {
+    "id": "vxweb.Situations.system_clipAdded",
+    "defaultMessage": "Clip Added",
+    "message": "Klip Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_clipFailed",
+    "defaultMessage": "Clip Failed",
+    "message": "Klip Başarısız Oldu"
+  },
+  {
+    "id": "vxweb.Situations.system_dataSourceOffline",
+    "defaultMessage": "Data Source Offline",
+    "message": "Veri Kaynağı Çevrimdışı"
+  },
+  {
+    "id": "vxweb.Situations.system_dataSourceOnline",
+    "defaultMessage": "Data Source Online",
+    "message": "Veri Kaynağı Çevrimiçi"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceOffline",
+    "defaultMessage": "Device Offline",
+    "message": "Aygıt Çevrimdışı"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceOnline",
+    "defaultMessage": "Device Online",
+    "message": "Aygıt Çevrimiçi"
+  },
+  {
+    "id": "vxweb.Situations.system_deviceStatusInitialized",
+    "defaultMessage": "Device Status Initialized",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.Situations.system_deviceStatusUnauthenticated",
+    "defaultMessage": "Device Status Unauthenticated",
+    "message": "Aygıt Durumu Kimliği Doğrulanmamış"
+  },
+  {
+    "id": "vxweb.Situations.system_exportDeleted",
+    "defaultMessage": "Export Deleted",
+    "message": "Gönderme Silindi"
+  },
+  {
+    "id": "vxweb.Situations.system_exportDownloaded",
+    "defaultMessage": "Export Downloaded",
+    "message": "İndirme Gönder"
+  },
+  {
+    "id": "vxweb.Situations.system_exportFailure",
+    "defaultMessage": "Export Failure",
+    "message": "Gönderme Başarısız"
+  },
+  {
+    "id": "vxweb.Situations.system_exportModified",
+    "defaultMessage": "Export Modified",
+    "message": "Gönderme Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_exportRestored",
+    "defaultMessage": "Export Restored",
+    "message": "Gönderme Geri Yüklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_exportStarted",
+    "defaultMessage": "Export Started",
+    "message": "Gönderme Başladı"
+  },
+  {
+    "id": "vxweb.Situations.system_exportSuccess",
+    "defaultMessage": "Export Success",
+    "message": "Gönderme Başarılı"
+  },
+  {
+    "id": "vxweb.Situations.system_exportTrashed",
+    "defaultMessage": "Export Trashed",
+    "message": "Gönderme Çöp Kutusuna Atıldı"
+  },
+  {
+    "id": "vxweb.Situations.system_failoverCompleted",
+    "defaultMessage": "Failover Completed",
+    "message": "Yük Devretme Tamamlandı"
+  },
+  {
+    "id": "vxweb.Situations.system_failoverStarted",
+    "defaultMessage": "Failover Started",
+    "message": "Yük Devretme Başladı"
+  },
+  {
+    "id": "vxweb.Situations.system_fault",
+    "defaultMessage": "Fault",
+    "message": "Hata (donanım)"
+  },
+  {
+    "id": "vxweb.Situations.system_manualRecordingAdded",
+    "defaultMessage": "Manual Recording Added",
+    "message": "Manuel Kayıt Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_manualRecordingRemoved",
+    "defaultMessage": "Manual Recording Removed",
+    "message": "Manuel Kayıt Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.system_memberOffline",
+    "defaultMessage": "Member Offline",
+    "message": "Üye Çevrimdışı"
+  },
+  {
+    "id": "vxweb.Situations.system_memberOnline",
+    "defaultMessage": "Member Online",
+    "message": "Üye Çevrimiçi"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzLock",
+    "defaultMessage": "Ptz Lock",
+    "message": "PTZ Kilitleme"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzPatternTriggered",
+    "defaultMessage": "Ptz Pattern Triggered",
+    "message": "PTZ Şablonu Tetiklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzPresetTriggered",
+    "defaultMessage": "Ptz Preset Triggered",
+    "message": "PTZ Ön Ayarı Tetiklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_ptzUnlock",
+    "defaultMessage": "Ptz Unlock",
+    "message": "PTZ Kilidini Kaldırma"
+  },
+  {
+    "id": "vxweb.Situations.system_qlogDownloaded",
+    "defaultMessage": "Qlog Downloaded",
+    "message": "Hızlı Günlük İndirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_qreportDownloaded",
+    "defaultMessage": "Qreport Downloaded",
+    "message": "Rapor İndirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_recordingFailureBandwidth",
+    "defaultMessage": "Recording Failure Bandwidth",
+    "message": "Kayıt Hatası Bant Genişliği"
+  },
+  {
+    "id": "vxweb.Situations.system_relayActive",
+    "defaultMessage": "Relay Active",
+    "message": "Geçiş Aktif"
+  },
+  {
+    "id": "vxweb.Situations.system_relayInactive",
+    "defaultMessage": "Relay Inactive",
+    "message": "Geçiş İnaktif"
+  },
+  {
+    "id": "vxweb.Situations.system_retentionLow",
+    "defaultMessage": "Retention Low",
+    "message": "Saklama Düşük"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptFailure",
+    "defaultMessage": "Script Failure",
+    "message": "Betik Hatası"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptStarted",
+    "defaultMessage": "Script Started",
+    "message": "Betik Başlatıldı"
+  },
+  {
+    "id": "vxweb.Situations.system_scriptSuccess",
+    "defaultMessage": "Script Success",
+    "message": "Betik Başarılı"
+  },
+  {
+    "id": "vxweb.Situations.system_streamLoss",
+    "defaultMessage": "Stream Loss",
+    "message": "Akış Kaybı"
+  },
+  {
+    "id": "vxweb.Situations.system_streamRestored",
+    "defaultMessage": "Stream Restored",
+    "message": "Akış Geri Yüklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewDenied",
+    "defaultMessage": "Stream View Denied",
+    "message": "Akış Görüntüleme Reddedildi"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewStarted",
+    "defaultMessage": "Stream View Started",
+    "message": "Akış Görüntüleme Başlatıldı"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewStopped",
+    "defaultMessage": "Stream View Stopped",
+    "message": "Akış Görüntüleme Durduruldu"
+  },
+  {
+    "id": "vxweb.Situations.system_streamViewTimeout",
+    "defaultMessage": "Stream View Timeout",
+    "message": "Akış Görüntüleme Zaman Aşımı"
+  },
+  {
+    "id": "vxweb.Situations.system_tagAdded",
+    "defaultMessage": "Tag Added",
+    "message": "Etiket Eklendi"
+  },
+  {
+    "id": "vxweb.Situations.system_tagLinked",
+    "defaultMessage": "Tag Linked",
+    "message": "Etiket Bağlandı"
+  },
+  {
+    "id": "vxweb.Situations.system_tagMerged",
+    "defaultMessage": "Tag Merged",
+    "message": "Etiket Birleştirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_tagModified",
+    "defaultMessage": "Tag Modified",
+    "message": "Etiket Değiştirildi"
+  },
+  {
+    "id": "vxweb.Situations.system_tagRemoved",
+    "defaultMessage": "Tag Removed",
+    "message": "Etiket Kaldırıldı"
+  },
+  {
+    "id": "vxweb.Situations.system_tagUnlinked",
+    "defaultMessage": "Tag Unlinked",
+    "message": "Etiket Bağlantısı Kaldırıldı"
+  },
+  {
+    "id": "vxweb.VideoCell.errorCannotConnect",
+    "defaultMessage": "Cannot connect to video source",
+    "message": "Video kaynağına bağlanılamıyor"
+  },
+  {
+    "id": "vxweb.VideoCell.errorNoRecordingExists",
+    "defaultMessage": "No recording exists at this point",
+    "message": "Bu noktada mevcut kayıt yok"
+  },
+  {
+    "id": "vxweb.VideoCell.live",
+    "defaultMessage": "Live",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.VideoCell.ok",
+    "defaultMessage": "OK",
+    "message": "Tamam"
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedGeneralError",
+    "defaultMessage": "The PTZ command failed. Please try again.",
+    "message": "PTZ komutu başarısız oldu. Lütfen tekrar deneyin."
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedHigherPriortyUserError",
+    "defaultMessage": "PTZ on this camera has been locked by a higher priority user.",
+    "message": "Bu kamera için PTZ denetimleri yüksek öncelikli bir kullanıcı tarafından kilitlenmiş."
+  },
+  {
+    "id": "vxweb.VideoCell.ptzLockedOverrideError",
+    "defaultMessage": "PTZ on this camera has been locked by another user. Click the lock icon to override their lock.",
+    "message": "Bu kameradaki PTZ başka bir kullanıcı tarafından kilitlenmiş. Kilitlerini geçersiz kılmak için kilit simgesini tıklatın."
+  },
+  {
+    "id": "vxweb.VideoTab.logoutLink",
+    "defaultMessage": "Log Out",
+    "message": "Oturumu Kapat"
+  },
+  {
+    "id": "vxweb.VideoTab.settingsLink",
+    "defaultMessage": "Configure Server",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  },
+  {
+    "id": "vxweb.VideoTab.tabName",
+    "defaultMessage": "Tab {tabNumber} ({layout})",
+    "message": "",
+    "todos": [
+      "Translate, new message"
+    ]
+  }
+]

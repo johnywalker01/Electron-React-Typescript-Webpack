@@ -1,0 +1,21 @@
+# Build output
+vxportal-*-zip.zip
+build/
+
+# Dependencies
+**/node_modules/
+
+#IDE
+.idea/
+.vscode/**
+.vscode/launch.json
+
+# Auto-generated stuff
+.DS_Store
+.awcache/
+debug.log
+npm-debug.log
+npm-debug.log.*
+yarn.lock
+stats.json
+**/*.pyc
