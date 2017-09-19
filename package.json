@@ -10,11 +10,12 @@
     "build": "webpack",
     "start": "electron ."
   },
-  "repository": "https://github.com/johnywalker01/electron-react-typescript-webpack-starter",
+  "repository": "https://github.com/johnywalker01/Electron-React-Typescript-Webpack",
   "keywords": [
     "Electron",
     "Typescript",
-    "ReactJS"
+    "ReactJS",
+    "Webpack"
   ],
   "devDependencies": {
     "@types/aphrodite": "^0.5.6",
